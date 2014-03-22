@@ -2,4 +2,5 @@ name: emeraldjava.github.io
 markdown: redcarpet
 pygments: true
 baseurl: /blog
+permalink: /blog/:title
 auto: true
