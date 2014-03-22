@@ -1,18 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<link rel="openid2.provider" href="https://openid.stackexchange.com/openid/provider">
-<link rel="openid2.local_id" href="https://openid.stackexchange.com/user/88478e1c-6c19-460c-833b-4a9a888ccaf5">
-<!-- http://peat.org/2013/09/15/replacing-myopenid/ -->
-<!-- <link rel="openid.server" href="https://indieauth.com/openid" /> -->
-<!-- <link rel="openid.delegate" href="https://emeraldjava.github.io/" /> -->
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>emeraldjava.github.io</title>
-<ul>
-<li><a href="https://emeraldjava.github.io" rel="me">GitHub</a></li>
-<li><a href="https://openid.stackexchange.com/user/88478e1c-6c19-460c-833b-4a9a888ccaf5" rel="me">OpenId</a></li>
-</ul>
-</head>
-<body>
-</body>
-</html>
+---
+layout: default
+title: emeraldjava
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

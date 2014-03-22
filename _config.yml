@@ -1,0 +1,5 @@
+name: emeraldjava.github.io
+markdown: redcarpet
+pygments: true
+baseurl: /blog
+auto: true
