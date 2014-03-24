@@ -7,7 +7,7 @@ categories: jekyll
 
 It's taken a while to get ruby and jekyll installed but hopefully we're up and running now.
 
-For running jekyll locally i'n executing
+For running jekyll locally i'm executing
 
 {% highlight console %}
 jekyll serve --watch --baseurl ''
@@ -28,3 +28,6 @@ ruby    1058 pauloconnell   16u  IPv4 0x9167574b5c8c3c87      0t0  TCP 127.0.0.1
 
 https://github.com/erjjones/erjjones.github.com
 http://24ways.org/2013/get-started-with-github-pages/
+
+
+
