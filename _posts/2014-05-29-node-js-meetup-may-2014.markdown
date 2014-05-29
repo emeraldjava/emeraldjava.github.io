@@ -16,5 +16,7 @@ My poor attempt to win the spot prize of the evening by posting a photo to [#nod
 
 <iframe src="//instagram.com/p/olvCKiv8a8/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 
-[HAPI](http://spumko.github.io/) is a server framework for node.
+[HAPI](http://spumko.github.io/) is a server framework for node that citi use for proxing. [Aman Kohli](http://ie.linkedin.com/in/kohlia) [akohli](https://twitter.com/akohli) explains the move away from SOAP,XML and the need they had for nodejs within the bank. Pizza with beer in the crust is a dream of his (he hasn't cracked the whole sogginess thing yet).
+
+
 
