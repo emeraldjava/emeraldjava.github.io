@@ -19,5 +19,5 @@ http://jekyllrb.com/docs/templates/
 
 using [gist-it.appspot.com](http://gist-it.appspot.com) for a fragment
 
-<script src="http://gist-it.appspot.com/http://github.com/robertkrimen/gist-it-example/blob/master/example.js?footer=minimal&slice=1:2">
+<script src="http://gist-it.appspot.com/https://github.com/spring-projects/spring-batch-admin/blob/master/spring-batch-admin-resources/src/main/resources/org/springframework/batch/admin/web/resources/WEB-INF/web.xml?footer=minimal&slice=4:-1">
 </script>
