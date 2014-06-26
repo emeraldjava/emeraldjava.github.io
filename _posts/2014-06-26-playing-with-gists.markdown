@@ -16,3 +16,8 @@ https://help.github.com/categories/23/articles
 http://jekyllrb.com/docs/templates/
 
 {% gist emeraldjava/6175555 %}
+
+using [gist-it.appspot.com](http://gist-it.appspot.com) for a fragment
+
+<script src="http://gist-it.appspot.com/http://github.com/robertkrimen/gist-it-example/blob/master/example.js?footer=minimal&slice=1:2">
+</script>
