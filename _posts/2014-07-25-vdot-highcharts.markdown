@@ -37,3 +37,5 @@ https://spreadsheets.google.com/feeds/list/0AmvAt7ZNIJJDcDBrUGxVRm90cUlGd2JLSnFD
 VIA - https://developers.google.com/gdata/samples/
 
 http://spreadsheets.google.com/feeds/feed/0AmvAt7ZNIJJDcDBrUGxVRm90cUlGd2JLSnFDa1IwZEE/worksheet/public/basic?alt=json-in-script&callback=myFunc
+http://spreadsheets.google.com/feeds/feed/0AmvAt7ZNIJJDcDBrUGxVRm90cUlGd2JLSnFDa1IwZEE/worksheet/public/basic?alt=json-in-script&callback=myFunc
+http://spreadsheets.google.com/feeds/feed/0AmvAt7ZNIJJDcDBrUGxVRm90cUlGd2JLSnFDa1IwZEE/worksheet/public/basic?alt=json-in-script&callback=myFunc
