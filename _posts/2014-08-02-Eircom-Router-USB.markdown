@@ -33,6 +33,6 @@ http://eircombusiness-wp.s3.amazonaws.com/media/modem_user_guide.pdf
 
 [Encryptix](http://www.boards.ie/vbulletin/showpost.php?p=86600610&postcount=83)
 
-<img src="{{site.url}}/assets/images/2014-08-02/encryptix.png"/>
+<iframe width='460' height='600' frameborder='0' src='http://www.boards.ie/vbulletin/showpost.php?p=86600610&postcount=83'/>
 
 http://www.boards.ie/vbulletin/showthread.php?p=86609237
