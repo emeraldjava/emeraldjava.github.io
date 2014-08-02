@@ -22,3 +22,17 @@ I've used CMD & K to open the connect to server dialog
 <img src="{{site.url}}/assets/images/2014-08-02/connect_to_server.png"/>
 
 But still no joy
+
+Some Resources
+
+http://screenshots.portforward.com/routers/ZyXEL/F1000/
+
+http://eircombusiness-wp.s3.amazonaws.com/media/modem_user_guide.pdf
+
+[Eircom F1000 Router : USB File Share](http://www.boards.ie/vbulletin/showthread.php?t=2057109927)
+
+[Encryptix](http://www.boards.ie/vbulletin/showpost.php?p=86600610&postcount=83)
+
+<img src="{{site.url}}/assets/images/2014-08-02/encryptix.png"/>
+
+http://www.boards.ie/vbulletin/showthread.php?p=86609237
