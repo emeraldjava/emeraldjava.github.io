@@ -19,6 +19,6 @@ And the Media Share settings are
 
 I've used CMD & K to open the connect to server dialog
 
-<img src="{{site.url}}/assets/images/2014-08-02/connect.png"/>
+<img src="{{site.url}}/assets/images/2014-08-02/connect_to_server.png"/>
 
 But still no joy
