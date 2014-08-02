@@ -17,4 +17,8 @@ And the Media Share settings are
 
 <img src="{{site.url}}/assets/images/2014-08-02/media_share.png"/>
 
-Still can't connect.
+I've used CMD & K to open the connect to server dialog
+
+<img src="{{site.url}}/assets/images/2014-08-02/connect.png"/>
+
+But still no joy
