@@ -22,4 +22,7 @@ ln -s /Users/pauloconnell/projects/github/bhaawp-enfold-child /Users/pauloconnel
 ln -s /Users/pauloconnell/projects/bhaawp /Users/pauloconnell/projects/MAMP/bhaaie/wp-content/plugins/bhaawp
 
 ln -s /Users/pauloconnell/projects/github/wp-php-flickr /Users/pauloconnell/projects/MAMP/bhaaie/wp-content/plugins/wp-php-flickr
+
+-- for XP instances
+mklink \d C:\oconnellp\wamp\wordpress\wp-content\themes\bhaawp-enfold-child C:\oconnellp\projects\github\bhaawp-enfold-child
 {% endhighlight %}
