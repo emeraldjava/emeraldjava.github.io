@@ -12,6 +12,7 @@ A season best marathon of 2h 49m 51second on my fourth running of the Dublin Cit
 A table of total montly distances covered over the past 6 months 
 
 |Total Distance|Activity Type|Value|
+|--------------|:-------------:|-----:|
 |May|Running|149.03|
 |Jun|Running|213.12|
 |Jul|Running|343.49|
