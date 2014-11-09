@@ -9,11 +9,11 @@ tags: [strava, garmin]
 
  With the recent upgrade by Garmin from Garmin Connect to Garmin Express it seems there are now three seperate folder in which my training files are saved.
 
-{% raw %}
+{% highlight bash linenos %}
 Untitled ▸ Users ▸ pauloconnell ▸ Library ▸ Application Support ▸ Garmin ▸ Devices ▸ 3610720948 : 24/5/2014 -> 22/6/2014
 Untitled ▸ Users ▸ pauloconnell ▸ Library ▸ Application Support ▸ Garmin ▸ GarminConnect ▸ -3610720948 ▸ Upload ▸ FitnessHistory : 24/6/2014 -> 9/9/2014
 Untitled ▸ Users ▸ pauloconnell ▸ Library ▸ Application Support ▸ Garmin ▸ Express ▸ RegisteredDevices ▸ 3610720948  ▸ PendingSyncUploads ▸ History : current
-{% endraw %}
+{% endhighlight %}
 
 I also setup my <style>
 .strava-badge- { display: inline-block; height: 16px; }
