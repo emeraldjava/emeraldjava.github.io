@@ -35,3 +35,5 @@ I registered the 'github.global.oauth2Token' value via the Settings > Env_Vars p
 
 	https://github.github.com/maven-plugins/site-plugin/site-mojo.html
 	
+
+http://stackoverflow.com/questions/14013644/hosting-a-maven-repository-on-github
