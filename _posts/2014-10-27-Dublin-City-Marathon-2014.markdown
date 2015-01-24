@@ -2,7 +2,7 @@
 layout: post
 title:  "Dublin City Marathon 2014"
 date:   2014-10-27 09:00:00
-categories: running marathon
+category: running
 ---
 
 A season best marathon of 2h 49m 51second on my fourth running of the Dublin City Marathon.

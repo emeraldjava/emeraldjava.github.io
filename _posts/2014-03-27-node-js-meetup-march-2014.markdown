@@ -2,7 +2,7 @@
 layout: post
 title:  "Node JS Meetup March 2014"
 date:   2014-03-27 18:55:30
-categories: node.js nodejsdublin
+category: programming
 ---
 
 Notes from the [www.nodejsdublin.com](http://www.nodejsdublin.com/) meeting in [https://www.engineyard.com/](Engine Yard), Barrow St, Dublin. The 

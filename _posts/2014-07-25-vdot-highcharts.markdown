@@ -2,7 +2,7 @@
 layout: post
 title:  "Vdot and Highcharts"
 date:   2014-07-25 17:12:35
-categories: highcharts
+category: running
 ---
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js">
 <script src="http://cdnjs.cloudflare.com/ajax/libs/highcharts/4.0.3/highcharts-all.js">

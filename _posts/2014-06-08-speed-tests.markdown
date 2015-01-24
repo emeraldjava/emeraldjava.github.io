@@ -2,7 +2,7 @@
 layout: post
 title:  "Eircom Speed Test"
 date:   2014-06-08 21:12:35
-categories: speedtest eircom
+category: general
 ---
 
 Checking my eircom broadband via [speedtest.net](http://www.speedtest.net)

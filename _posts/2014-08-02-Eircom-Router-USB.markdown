@@ -2,7 +2,7 @@
 layout: post
 title:  "Eircom Router USB Mount"
 date:   2014-08-02 11:08:26
-categories: eircom
+category: general
 ---
 
 I've been following this boards thread [Mac OSX and eFibre router - Access to USB device attached to Router](http://www.boards.ie/vbulletin/showthread.php?t=2057111823) regarding accessing a USB mount via the eircom router at home.

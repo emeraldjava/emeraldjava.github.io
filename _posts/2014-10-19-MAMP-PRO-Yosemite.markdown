@@ -2,7 +2,7 @@
 layout: post
 title:  "MAMP PRO Apache Yosemite"
 date:   2014-10-19 12:54:00
-categories: mamp
+category: programming
 ---
 
 Upgraded to Yosemite last night and had to appy this fix to enable my MAMP Apache

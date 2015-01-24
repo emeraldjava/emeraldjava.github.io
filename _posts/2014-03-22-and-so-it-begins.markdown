@@ -2,7 +2,7 @@
 layout: post
 title:  "And-so-the-github-jekyll-blog-begins"
 date:   2014-03-22 13:24:30
-categories: jekyll
+category: general
 ---
 
 It's taken a while to get ruby and jekyll installed but hopefully we're up and running now.

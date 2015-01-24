@@ -2,7 +2,7 @@
 layout: post
 title:  "Update GitHub Pages Via Travis CI And Maven Site"
 date:   2014-10-29 17:00:00
-categories: github, travis-ci, maven
+category: programming
 ---
 
 I've been looking for a way to automatically update my github pages site via a maven build hosted on travis-ci. 

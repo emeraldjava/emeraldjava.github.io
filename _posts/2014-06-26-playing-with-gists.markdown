@@ -2,7 +2,7 @@
 layout: post
 title:  "Playing with Gists"
 date:   2014-06-26 16:52:35
-categories: gist
+category: github
 ---
 
 All of my [gists are shown here](https://gist.github.com/emeraldjava] with the [github documentation](https://help.github.com/categories/23/articles)
