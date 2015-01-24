@@ -2,6 +2,7 @@
 layout: post
 title: "Boston-2015-W1"
 date: 2015-01-24T17:17:20+00:00
+categories: boston2015 running
 ---
 
 Start of the training blog for Boston 2015
