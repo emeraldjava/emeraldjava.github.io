@@ -15,6 +15,8 @@ Untitled ▸ Users ▸ pauloconnell ▸ Library ▸ Application Support ▸ Garm
 Untitled ▸ Users ▸ pauloconnell ▸ Library ▸ Application Support ▸ Garmin ▸ Express ▸ RegisteredDevices ▸ 3610720948  ▸ PendingSyncUploads ▸ History : current
 {% endhighlight %}
 
+/Users/pauloconnell/Library/Application Support/Garmin/GarminConnect/Forerunner 405-3610720948/Upload/FitnessHistory/2014-08-09-183238.TCX
+
 I also setup my <style>
 .strava-badge- { display: inline-block; height: 16px; }
 .strava-badge- img { visibility: hidden; height: 16px; }
