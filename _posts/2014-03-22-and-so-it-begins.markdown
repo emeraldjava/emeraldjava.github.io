@@ -24,10 +24,8 @@ Displays
 {% highlight console linenos %}
 COMMAND  PID         USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
 ruby    1058 pauloconnell   14u  IPv4 0x9167574b623a7c87      0t0  TCP *:terabase (LISTEN)
-ruby    1058 pauloconnell   16u  IPv4 0x9167574b5c8c3c87      0t0  TCP 127.0.0.1:terabase->127.0.{% endhighlight %}
+ruby    1058 pauloconnell   16u  IPv4 0x9167574b5c8c3c87      0t0  TCP 127.0.0.1:terabase->127
+{% endhighlight %}
 
 https://github.com/erjjones/erjjones.github.com
 http://24ways.org/2013/get-started-with-github-pages/
-
-
-
