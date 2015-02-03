@@ -1,8 +1,7 @@
 name: emeraldjava.github.io
 markdown: redcarpet
 redcarpet:
- extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
-pygments: true
-baseurl: /blog
-permalink: /blog/:title
+ extensions: [no_intra_emphasis, fenced_code_blocks, autolink, tables]
+highlighter: pygments
+permalink: /post/:title
 auto: true
