@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Six Levels of Scala
-categories: [programming]
+category: programming
 tags: [scala]
 published: True
 date: 2015-01-25 18:32:56
