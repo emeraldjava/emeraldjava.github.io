@@ -1,3 +1,6 @@
 _site
 .project
 *.sublime*
+cheatsheet.md
+
+*.lock
