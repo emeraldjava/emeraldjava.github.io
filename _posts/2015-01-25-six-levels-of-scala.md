@@ -52,3 +52,4 @@ This document describes [6 levels of scala skills](http://www.scala-lang.org/old
 
 Some useful resources
 [https://twitter.github.io/scala_school](https://twitter.github.io/scala_school/)
+[Scala Tutorial Android App](https://play.google.com/store/apps/details?id=com.tb.scala&hl=en)
