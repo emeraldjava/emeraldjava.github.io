@@ -1,7 +1,70 @@
-name: emeraldjava.github.io
-markdown: redcarpet
-redcarpet:
- extensions: [no_intra_emphasis, fenced_code_blocks, autolink, tables]
+title:            emeraldjava
+description:      Running, IT and other random postings.
+disqus_shortname: hpstrtheme
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:
+
+# Owner/author information
+owner:
+  name:           Paul O'Connell
+  avatar:         avatar.jpg
+  bio:            "Senior Java Developer, marathon runner and chairperson of the BHAA."
+  email:          paul.t.oconnell@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: emerald007      
+  facebook:       
+  github: emeraldjava        
+  stackexchange: emeraldjava
+  linkedin: paultoconnell      
+  instagram: emeraldjava     
+  flickr: 34896940@N06        
+  tumblr:    
+  strava: 7035778     
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:
+
+# Background image to be tiled on all pages
+background: abstract-11.jpg
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Dublin
+future:      true
 highlighter: pygments
-permalink: /post/:title
-auto: true
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
