@@ -15,14 +15,14 @@ owner:
   email:          paul.t.oconnell@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: emerald007      
-  facebook:       
+  #facebook:       
   github: emeraldjava        
-  stackexchange: emeraldjava
+  stackexchange: http://stackoverflow.com/users/55794/emeraldjava
   linkedin: paultoconnell      
   instagram: emeraldjava     
-  flickr: 34896940@N06        
+  #flickr: 34896940@N06        
   tumblr:    
-  strava: 7035778     
+  strava: 7035778
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
@@ -30,7 +30,7 @@ owner:
 background: abstract-11.jpg
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-2030587-2
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
