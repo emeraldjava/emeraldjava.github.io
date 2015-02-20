@@ -10,7 +10,7 @@ layout: null
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://emeraldjava.github.com</id>
  <author>
-   <name>EmeraldJava</name>
+   <name>emeraldjava</name>
  </author>
  
  {% for post in site.posts %}
