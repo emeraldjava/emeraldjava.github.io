@@ -1,8 +1,8 @@
 ---
 layout:  post
 title: Nodejs Feb 2015 Meetup
-categories: []
-tags: []
+categories: [nodejs]
+tags: [nodejs]
 published: True
 date: 2015-02-26 19:25:12
 ---
