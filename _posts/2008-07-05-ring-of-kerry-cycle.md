@@ -10,6 +10,6 @@ The 175km Ring of Kerry Cycle, completed by Mr Paul Tall Horan and I in 8 hours 
 
 The polar profile
 
-![](http://4.bp.blogspot.com/_UjH7scA_Bek/SHEe-Zhba5I/AAAAAAAAA20/sIR0eguJp4k/s1600-h/5-6-2008.JPG)
+[](http://http://4.bp.blogspot.com/_UjH7scA_Bek/SHEe-Zhba5I/AAAAAAAAA20/sIR0eguJp4k/s1600-h/5-6-2008.JPG)
 
 
