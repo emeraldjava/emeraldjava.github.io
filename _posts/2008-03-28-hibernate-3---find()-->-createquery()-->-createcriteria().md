@@ -1,0 +1,7 @@
+---
+title: Hibernate 3 - find() -> createQuery() -> createCriteria()
+layout: post
+category: blogger
+# Pulled from Blogger. Last updated there on: Fri Mar 28 18:42:00 GMT 2008
+---
+An example of various Hibernate query methods available, see <a href="http://www.hibernate.org/elqNow/elqRedir.htm?ref=http://www.hibernate.org/hib_docs/v3/reference/en/pdf/hibernate_reference.pdf">Hibernate 3.2.2 Doc</a>.<br /><br /><span style="font-style:italic;">find()</span><br /><br /><pre name="code" class="java"><br />List list = session.find(<br />"from RiskEvaluation where inherentRisk=? and residualRisk=?",<br />new Object[]{inherent.getLevel(),residual.getLevel()},                                <br />new Type[]{Hibernate.STRING,Hibernate.STRING});<br /></pre><br /><br /><span style="font-style:italic;">createQuery()</span><br />               <br /><pre name="code" class="java"><br />List list = session.createQuery(<br />"from RiskEvaluation where inherentRisk = ? and residualRisk = ?")<br />.setString(0,inherent.getLevel())<br />.setString(1,residual.getLevel())<br />.list();<br /></pre><br /><br /><span style="font-style:italic;">createCriteria()</span><br />     <br /><pre name="code" class="java">  <br />Criteria criteria = session.createCriteria(RiskEvaluation.class);<br />criteria.add( Restrictions.eq("inherentRisk", inherent.getLevel()) );<br />criteria.add( Restrictions.eq("residualRisk", residual.getLevel()) );<br />List list = criteria.list();<br /></pre>

@@ -1,0 +1,7 @@
+---
+title: Jsp:include vs c:import tags
+layout: post
+category: blogger
+# Pulled from Blogger. Last updated there on: Thu Jul 10 09:54:00 IST 2008
+---
+<BR>  <P><FONT SIZE=2 FACE="Arial">JSP</FONT> </P>  <P><FONT SIZE=2 FACE="Arial">&lt;jsp:include page=&quot;./menu.jsp&quot; &gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT> <BR><FONT SIZE=2 FACE="Arial">&nbsp;&nbsp;</FONT> <FONT COLOR="#008080" SIZE=2 FACE="Courier New">&lt;</FONT><FONT COLOR="#3F7F7F" SIZE=2 FACE="Courier New">jsp:param</FONT> <FONT COLOR="#7F007F" SIZE=2 FACE="Courier New">name</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New">=</FONT><FONT COLOR="#2A00FF" SIZE=2 FACE="Courier New">&quot;menu&quot;</FONT> <FONT COLOR="#7F007F" SIZE=2 FACE="Courier New">value</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New">=</FONT><FONT SIZE=2 FACE="Courier New">&quot;</FONT><FONT COLOR="#BF5F3F" SIZE=2 FACE="Courier New">&lt;%=</FONT><FONT COLOR="#000000" SIZE=2 FACE="Courier New">Constants.Web.Menu.ASSESSMENT_ADMIN</FONT><FONT COLOR="#BF5F3F" SIZE=2 FACE="Courier New">%&gt;</FONT><FONT SIZE=2 FACE="Courier New">&quot;</FONT><FONT COLOR="#008080" SIZE=2 FACE="Courier New">/&gt;</FONT> <BR><FONT SIZE=2 FACE="Arial">&lt;/jsp:include&gt;</FONT> </P>  <P><FONT SIZE=2 FACE="Arial">JSTL</FONT> </P>  <P><FONT SIZE=2 FACE="Arial">&lt;c:import url=&quot;./menu.jsp&quot;&gt;</FONT> <BR><FONT SIZE=2 FACE="Arial">&nbsp;&nbsp;&nbsp;&nbsp; &lt;c:param name=&quot;menu&quot; value=&quot;${menu.ASSESSMENT_ADMIN}&quot;/&gt;</FONT> <BR><FONT SIZE=2 FACE="Arial">&lt;/c:import&gt;</FONT> </P>  

@@ -1,0 +1,7 @@
+---
+title: V_RISK_ASSESSMENT - LEFT OUTER JOIN
+layout: post
+category: blogger
+# Pulled from Blogger. Last updated there on: Thu Aug 14 18:06:00 IST 2008
+---
+<BR>  <P><FONT SIZE=2 FACE="Arial">CREATE OR REPLACE VIEW CCOP1DBO.V_RISK_ASSESSMENT AS</FONT> <BR><FONT SIZE=2 FACE="Arial">SELECT DISTINCT</FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">RA.RA_OID, </FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">RA.RA_NAME,</FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">BH.BH_LEVEL_SHORT_NAME,</FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">NVL(CDL.CSR_DOCUMENT_ID,'N') xx,</FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">CDL.RA_OID AS CSR_RA_OID</FONT> <BR><FONT SIZE=2 FACE="Arial">FROM </FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">T_RISK_ASSESSMENT RA </FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">LEFT OUTER JOIN T_BUSINESS_HIERARCHY BH</FONT> <BR><FONT SIZE=2 FACE="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ON RA.BH_OID = BH.BH_OID</FONT> <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT SIZE=2 FACE="Arial">LEFT OUTER JOIN T_CSR_DOCUMENT_LINK CDL </FONT> <BR><FONT SIZE=2 FACE="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ON CDL.RA_OID = RA.RA_OID</FONT> <BR><FONT SIZE=2 FACE="Arial">ORDER BY RA.RA_OID;</FONT> <BR><FONT SIZE=2 FACE="Arial">commit;</FONT> </P>  
