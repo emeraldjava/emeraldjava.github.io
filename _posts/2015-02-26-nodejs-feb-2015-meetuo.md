@@ -13,4 +13,4 @@ So i thought this was an early april fools joke when i saw the two talks for thi
 
 I had come across this project already [http://www.brewpi.com/](http://www.brewpi.com/)
 
-2nd talk :  [http://cylonjs.com/](Cylon.js)
+2nd talk : [Cylon.js](http://cylonjs.com)
