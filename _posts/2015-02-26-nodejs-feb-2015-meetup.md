@@ -16,5 +16,5 @@ So i thought this was an early april fools joke when i saw the two talks for thi
 Internet of Things in the Pub
 We are introduced to the [smart breathalyzer](http://www.alcohoot.com/) which is a mobile app plugin for measuring how many drinks you've had. You've identified your drunk so the next logical step is to call a drone what will deliver you another beer. Neat demo of a drone attempting to deliver a can of beer. I'll hold off until the drone cab pull a pint of guinness and deliver that before i'll sack all the bar men.
 
-[Spark devices](https://www.spark.io/) are mentioned and its [cloud API](http://docs.spark.io/api/). The next demo involves a dance mat sending commands to the drone as our human dances to gangnan style, the drone let on it was too cool to dance.
+[Spark devices](https://www.spark.io/) are mentioned and its [cloud API](http://docs.spark.io/api/). The next demo 'partybus' involves a dance mat sending commands to the drone as our human dances to gangnan style, the drone let on it was too cool to dance.
 
