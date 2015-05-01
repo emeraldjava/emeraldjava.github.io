@@ -9,6 +9,8 @@ date: 2015-05-01 15:37:12
 
 A simple stripe form.
 
+First off we need the raw / endraw tags : https://github.com/herereadthis/redwall/issues/18
+
 {% raw %}
 <form action="" method="POST" id="payment-form">
   <span class="payment-errors"></span>
@@ -38,4 +40,4 @@ A simple stripe form.
 
   <button type="submit">Submit Payment</button>
 </form>
-{% raw %}
+{% endraw %}
