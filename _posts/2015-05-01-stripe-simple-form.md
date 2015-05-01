@@ -9,9 +9,11 @@ date: 2015-05-01 15:37:12
 
 A simple stripe form.
 
-First off we need the raw / endraw tags : https://github.com/herereadthis/redwall/issues/18
+1 - First off we need the raw / endraw tags : https://github.com/herereadthis/redwall/issues/18
+2 - Add the Stripe js file and javascript/jquery code to the head.html
 
 {% raw %}
+<h1>Charge $10 with Stripe</h1>
 <form action="" method="POST" id="payment-form">
   <span class="payment-errors"></span>
 
