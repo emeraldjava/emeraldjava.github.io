@@ -12,6 +12,13 @@ A simple stripe form.
 1 - First off we need the raw / endraw tags : https://github.com/herereadthis/redwall/issues/18
 2 - Add the Stripe js file and javascript/jquery code to the head.html
 
+3 - require_once('path/to/stripe-php/init.php');
+
+4 - Call to undefined function Stripe\curl_init()
+= add php5 curl
+
+
+
 {% raw %}
 <h1>Charge $10 with Stripe</h1>
 <form action="" method="POST" id="payment-form">
