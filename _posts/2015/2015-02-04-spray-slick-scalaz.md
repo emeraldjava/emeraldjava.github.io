@@ -2,7 +2,7 @@
 layout: 
 title: spray slick scalaz
 categories: []
-tags: []
+tags: [2015]
 published: True
 
 ---

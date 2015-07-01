@@ -2,7 +2,7 @@
 layout: default
 title: mac-os-eclipse-ini-settings
 categories: []
-tags: []
+tags: [2015]
 published: True
 
 ---
