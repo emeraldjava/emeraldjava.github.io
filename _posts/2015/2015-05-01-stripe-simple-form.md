@@ -50,3 +50,5 @@ A simple stripe form.
   <button type="submit">Submit Payment</button>
 </form>
 {% endraw %}
+
+This is an update.
