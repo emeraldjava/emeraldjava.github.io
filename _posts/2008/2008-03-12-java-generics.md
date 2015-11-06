@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Java Generics
 layout: post
 category: blogger

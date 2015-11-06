@@ -1,5 +1,5 @@
 ---
-title: Monday 31st Dec 2007 : Hollywood - Wicklow Gap
+title: Monday 31st Dec 2007 Hollywood - Wicklow Gap
 layout: post
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Dec 31 17:16:00 GMT 2007

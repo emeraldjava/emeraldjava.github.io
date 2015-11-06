@@ -1,5 +1,5 @@
 ---
-title: Jetty 6 : JSP support not configured
+title: Jetty 6 JSP support not configured
 layout: post
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Dec 23 14:26:00 GMT 2008

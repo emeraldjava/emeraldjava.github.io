@@ -1,5 +1,5 @@
 ---
-title: java.lang.IllegalAccessError: tried to access method junit.framework.TestCase.()V
+title: java.lang.IllegalAccessError - tried to access method junit.framework.TestCase.()V
 layout: post
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Jul 25 16:37:00 IST 2007

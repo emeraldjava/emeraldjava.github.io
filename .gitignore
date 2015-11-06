@@ -1,6 +1,9 @@
 _site
-.project
-*.sublime*
-cheatsheet.md
-*.lock
-.sass-cache/*
+.sass-cache
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.git
+codekit-config.json
+node_modules
+_asset_bundler_cache

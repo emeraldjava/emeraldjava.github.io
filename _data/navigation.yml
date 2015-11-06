@@ -1,4 +1,15 @@
-# Menu navigation links
+# Site navigation links
+- title: About
+  url: /about/
 
 - title: bhaa.ie
   url: http://bhaa.ie
+
+#- title: Sample Posts
+#  url: /posts/
+
+#- title: Theme Setup
+#  url: /theme-setup/
+
+#- title: Made Mistakes
+#  url: http://mademistakes.com

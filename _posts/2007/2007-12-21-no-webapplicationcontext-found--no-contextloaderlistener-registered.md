@@ -1,5 +1,5 @@
 ---
-title: No WebApplicationContext found: no ContextLoaderListener registered?
+title: No WebApplicationContext found - no ContextLoaderListener registered?
 layout: post
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Dec 21 14:09:00 GMT 2007
