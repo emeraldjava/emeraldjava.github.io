@@ -3,9 +3,12 @@ layout: post
 title: "Daily delicious posts report"
 date: "2015-11-09"
 ---
-I cloned https://github.com/danielqo/delicious-api and created a forked version here https://github.com/emeraldjava/delicious-api. I added a maven pom and updated the code to parse the tag details and output my most [recent delicious posts](https://github.com/SciDevs/delicious-api/tree/master/api) in a list format supported by markup.
 
-I setup on travis CI buid with [encrypted username and a password](http://stackoverflow.com/questions/9338428/using-secret-api-keys-on-travis-ci) details and the final step was to setup a nightly build via [https://nightli.es/](https://nightli.es/).
+I wanted to generate a daily report of URLS that I have tagged and recorded via [delicio.us](delicio.us).
+
+I cloned this java API for [https://github.com/danielqo/delicious-api](https://github.com/danielqo/delicious-api) and created a forked version here https://github.com/emeraldjava/delicious-api. I added a maven pom and updated the code to parse the tag details and output my most [recent delicious posts](https://github.com/SciDevs/delicious-api/tree/master/api) in a list format supported by markup.
+
+I then setup on travis CI buid with [encrypted username and a password](http://stackoverflow.com/questions/9338428/using-secret-api-keys-on-travis-ci) details and the final step was to setup a nightly build via [https://nightli.es/](https://nightli.es/).
 
 A unit test generates this markup
 
