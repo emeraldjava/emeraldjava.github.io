@@ -20,7 +20,7 @@ openssl req -new -x509 -key ~/.ssh/id_rsa -out ~/.ssh/ssh-cert.pem
 ### azure.ssh_private_key_file
 your private key typically in ~/.ssh/id_rsa
 
-[gist 4b430df]
+{% gist 4b430df3cd69979be138bd44716c136e789fb8ec %}
 
 ## [stapp.space](http://stapp.space/setup-vagrant-with-azure/#blog)
 
