@@ -63,6 +63,8 @@ highlighter: pygments
 markdown:    kramdown
 gems:
  - jekyll-sitemap
+ - jekyll-gist
+ - jekyll-feed
 sass:
   sass_dir: _sass
   style: compressed
