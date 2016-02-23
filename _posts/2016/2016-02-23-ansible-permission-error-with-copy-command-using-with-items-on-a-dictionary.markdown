@@ -4,7 +4,7 @@ title: "ansible-permission-error-with-copy-command-using-with-items-on-a-diction
 date: "2016-02-23 12:12:34 +0000"
 ---
 
-# http://stackoverflow.com/questions/35577184/ansible-permission-error-with-copy-command-using-with-items-on-a-dictionary
+# [ansible-permission-error-with-copy-command-using-with-items-on-a-dictionary](http://stackoverflow.com/questions/35577184/ansible-permission-error-with-copy-command-using-with-items-on-a-dictionary)
 
 I have the following YAML dictionaries defined for a set of glassfish config files that I need to copy as part of a deployment
 
