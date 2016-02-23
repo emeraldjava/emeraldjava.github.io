@@ -1,0 +1,19 @@
+---
+layout: post
+title: "elk-stash"
+date: "2016-02-04 14:38:02"
+---
+Some notes on ELK Stack installation.
+
+# ELK Stash
+Install via vagrant
+http://blog.comperiosearch.com/blog/2014/08/14/elk-one-vagrant-box/
+https://github.com/comperiosearch/vagrant-elk-box/tree/master/confs/logstash
+
+# Logstash Loading
+https://www.elastic.co/guide/en/logstash/current/config-examples.html
+https://www.elastic.co/guide/en/logstash/current/input-plugins.html
+
+# Loading log files
+http://blog.akquinet.de/2015/08/24/logstash-jboss-eap/
+https://www.digitalocean.com/community/tutorials/how-to-use-logstash-and-kibana-to-centralize-logs-on-centos-7
