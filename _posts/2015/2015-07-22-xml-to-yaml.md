@@ -9,7 +9,7 @@ published: True
 
 http://codebeautify.org/xml-to-yaml
 
-```
+```xml
 <createResidentialCustomer xmlns="http://www.infonova.com/product/model">
     <channelId>162305</channelId>
 	<operator>${operatorUsername}</operator>
@@ -36,7 +36,7 @@ http://codebeautify.org/xml-to-yaml
 
 to
 
-```
+```yaml
 createResidentialCustomer:
  channelId: 162305
  operator: "${operatorUsername}"
