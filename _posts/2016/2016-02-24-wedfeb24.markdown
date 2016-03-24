@@ -1,0 +1,12 @@
+---
+layout: post
+title: "wed-feb-24"
+date: "2016-02-24 08:49:59 +0000"
+---
+
+# Naked Objects
+http://stackoverflow.com/questions/167517/naked-objects-good-or-bad
+https://isis.apache.org/guides/tg.html
+
+# Kendo
+https://github.com/telerik/kendo-ui-core
