@@ -27,6 +27,13 @@ One item to note is that '/ci' must be appended to your gitlabs url
 
 > http://x.y.z:port/ci
 
+A nice image
+
+<figure class="third">
+	<img src="http://emeraldjava.github.io/assets/images/2016/03/24/gitlab-ci-build-runner.png">
+  <figcaption>Caption describing these three images.</figcaption>
+</figure>
+
 Some other URL links found today
 
 * https://gitlab.com/gitlab-org/gitlab-ci-multi-runner/blob/master/docs/install/linux-repository.md
