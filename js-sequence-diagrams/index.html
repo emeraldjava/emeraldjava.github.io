@@ -1,0 +1,37 @@
+<html>
+
+<head>
+<script src="./bower_components/raphael/raphael-min.js"></script>
+<script src="./bower_components/underscore/underscore-min.js"></script>
+<script src="./bower_components/js-sequence-diagrams/build/sequence-diagram-min.js"></script>
+</head>
+
+<body>
+
+  <div class="diagram2"></div>
+  <script>
+  var diagram2 = Diagram.parse(
+  "Andrew->China: Says Hello");
+  diagram2.drawSVG("diagram2", {theme: 'simple'});
+  </script>
+
+  <hr/>
+
+This is the body
+  <div id="diagram"></div>
+  <script>
+    var diagram = Diagram.parse("A->B: Message");
+    diagram.drawSVG("diagram", {theme: 'hand'});
+  </script>
+
+<hr/>
+new div
+
+https://bramp.github.io/js-sequence-diagrams/
+
+https://atom.io/packages/atom-html-preview
+
+</body>
+
+
+</html>

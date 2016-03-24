@@ -34,7 +34,7 @@ owner:
     ad-slot:
   bing-verify:
   tumblr: #username
-  pinterest: #username
+  #pinterest: #username
   foursquare: #username
   steam: #username
   dribbble: #username
