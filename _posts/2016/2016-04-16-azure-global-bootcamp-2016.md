@@ -6,14 +6,7 @@ date: "2016-04-16 11:01:49 +0100"
 
 Notes from the Dublin talks
 
-{% tweet https://twitter.com/emerald007/status/721259834327191552 align='center' %}
-
-{% twitter oembed https://twitter.com/DepressedDarth/status/683671063855759360 %}
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Looking forward to <a href="https://twitter.com/dxirl">@dxirl</a> azure bootcamp <a href="https://t.co/EFiFhO6bSB">pic.twitter.com/EFiFhO6bSB</a></p>&mdash; emerald007 (@emerald007) <a href="https://twitter.com/emerald007/status/721259834327191552">April 16, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-# Niall Moran (10am)
+# [Niall Moran](https://twitter.com/niallermoran)
 
 - Azure batch
 - Azure container - docker swarm / apache mesos clusters
@@ -69,9 +62,35 @@ Best Practice for Web Apps
 - use azure CDN for static files
 - retry logic
 
+6 month free code magazine subscription : https://www.codemag.com/subscribe/gabc16
+
+# [Bob Duffy](https://twitter.com/bob_duffy) - Migrate SQL to the Azure Cloud
+
+See linux.dell.com/dvdstore as a bad implementation and good example for making scaling improvements.
+
+Non-functional requirements
+- availability : green
+- recoverability : green
+- agility : green
+- maintainability : green
+- cost : orange
+- scalability (scale out vs scale up) : orange
+- performance : red
+- reliability : red (cloud at a single node is unreliable but as a whole is scalable)
+
+## Iaas
+
+Blob storage is not suitable for SQL Server
+
+SSD based storage is recommended for SQL Server DB's on azure
+
+A lot of SQL Server is single threaded so clock speed and chip should be tuned. Use less chips to achieve greater clock speeds.
+
+Check the Azure package IOPS value (this should be considered the bandwidth) and divide by 64 to determine the real SQL Server IOPS value.
+
+Consider the buy or rental costs for your SQL server license.
 
 
-https://www.codemag.com/subscribe/gabc16
 
 ### Atom Editor Issue
 
