@@ -26,7 +26,7 @@ Transparent Data Encryption for SQL Databases
 http://aka.ms/AzureBootcampDublin -> https://blogs.msdn.microsoft.com/niallsblog/bootcamp2016/
 ```
 
-# Aiden Casey - Building and Deploying App Services
+# [Aiden Casey](https://twitter.com/@aidanjcasey) - Building and Deploying App Services
 
 - Web app - customer site
 - Login app - order tracking (asych)
@@ -142,6 +142,8 @@ No-SQL
 12 - Distributed Caching
 
 13 - Queues Centric Work Patterns
+
+# [Aidan Finn](https://twitter.com/@joe_elway) Azure Site Recovery
 
 # Machine Learning Stuff
 
