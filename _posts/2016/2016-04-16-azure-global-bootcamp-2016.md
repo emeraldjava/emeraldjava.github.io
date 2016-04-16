@@ -78,7 +78,7 @@ Non-functional requirements
 - performance : red
 - reliability : red (cloud at a single node is unreliable but as a whole is scalable)
 
-## Iaas
+## IaaS
 
 Blob storage is not suitable for SQL Server
 
@@ -90,7 +90,69 @@ Check the Azure package IOPS value (this should be considered the bandwidth) and
 
 Consider the buy or rental costs for your SQL server license.
 
+There are differences between on-premise and cloud sql servers
+- heap table types
+- extended stored proc's
 
+Elastic DB
+- Uses federation/sharding
+- Sharding is done with code with API provided by microsoft
+
+Use Data Caching
+- Azure cache
+- Redis
+- Message queue
+
+No-SQL
+- Document DB, json
+- Azure Table, xml
+- Cheaper for data storage
+
+# [Vikas Sahni](https://twitter.com/search?q=sahnivi)
+
+1 - Automate everything
+- Dev/ops Learn, Develop, Deploy, Operate
+- Repeatable, Reliable, Fast (4 Week cycle)
+
+2 - Source Control
+- parameterize scripts
+-
+3 - CI & CD
+- Visual Studio Online (free up to 5 developer)
+-
+4 - Web Dev Best Practices
+- Scale automatically or on schedule
+
+5 - Enterprise Identity Integration
+- active directory
+- oauth
+
+6 - Data Storage Options
+7 - Data Partition Strategies
+8 - Unstructured Blob Strategy
+9 - Design to survive failures
+10 - Monitoring and Telemetry
+11 - Transient Fault Handing
+12 - Distributed Caching
+13 - Queues Centric Work Patterns
+
+# Machine Learning Stuff
+
+https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/
+http://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v6.pdf
+https://studio.azureml.net/
+http://machinelearningmastery.com/mistakes-programmers-make-when-starting-in-machine-learning/
+http://machinelearningmastery.com/what-if-im-not-a-good-programmer/
+http://stackoverflow.com/questions/2620343/what-is-machine-learning
+https://blog.intercom.io/machine-learning-way-easier-than-it-looks/
+
+## [Kaggle](https://www.kaggle.com/)
+
+https://www.kaggle.com/c/sf-crime/data
+
+### Machine Learning Languages
+- http://julialang.org/
+- http://www.cyclismo.org/tutorial/R/
 
 ### Atom Editor Issue
 
