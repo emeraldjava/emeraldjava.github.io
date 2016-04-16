@@ -145,17 +145,17 @@ No-SQL
 
 # Machine Learning Stuff
 
-https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/
-http://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v6.pdf
-https://studio.azureml.net/
-http://machinelearningmastery.com/mistakes-programmers-make-when-starting-in-machine-learning/
-http://machinelearningmastery.com/what-if-im-not-a-good-programmer/
-http://stackoverflow.com/questions/2620343/what-is-machine-learning
-https://blog.intercom.io/machine-learning-way-easier-than-it-looks/
+- https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/
+-http://download.microsoft.com/download/A/6/1/A613E11E-8F9C-424A-B99D-65344785C288/microsoft-machine-learning-algorithm-cheat-sheet-v6.pdf
+-https://studio.azureml.net/
+-http://machinelearningmastery.com/mistakes-programmers-make-when-starting-in-machine-learning/
+-http://machinelearningmastery.com/what-if-im-not-a-good-programmer/
+-http://stackoverflow.com/questions/2620343/what-is-machine-learning
+-https://blog.intercom.io/machine-learning-way-easier-than-it-looks/
 
 ## [Kaggle](https://www.kaggle.com/)
 
-https://www.kaggle.com/c/sf-crime/data
+-https://www.kaggle.com/c/sf-crime/data
 
 ### Machine Learning Languages
 - http://julialang.org/
