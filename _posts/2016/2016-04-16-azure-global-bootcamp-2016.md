@@ -143,7 +143,16 @@ No-SQL
 
 13 - Queues Centric Work Patterns
 
-# [Aidan Finn](https://twitter.com/@joe_elway) Azure Site Recovery
+# [Aidan Finn](https://twitter.com/@joe_elway) - Azure Site Recovery
+
+- Backup vs Disaster Recovery
+- Basic Azure
+ - Site to Site
+ - Site to Azure
+- Design Considerations
+- Accessing failed over Services
+- Azure V2/ARM
+- Pricing
 
 # Machine Learning Stuff
 
