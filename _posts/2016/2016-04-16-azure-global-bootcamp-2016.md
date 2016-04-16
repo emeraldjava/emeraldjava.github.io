@@ -1,4 +1,4 @@
----
+˛---
 layout: post
 title: "Azure Global Bootcamp 2016"
 date: "2016-04-16 11:01:49 +0100"
@@ -116,7 +116,7 @@ No-SQL
 
 2 - Source Control
 - parameterize scripts
--
+
 3 - CI & CD
 - Visual Studio Online (free up to 5 developer)
 -
@@ -128,12 +128,19 @@ No-SQL
 - oauth
 
 6 - Data Storage Options
+
 7 - Data Partition Strategies
+
 8 - Unstructured Blob Strategy
+
 9 - Design to survive failures
+
 10 - Monitoring and Telemetry
+
 11 - Transient Fault Handing
+
 12 - Distributed Caching
+
 13 - Queues Centric Work Patterns
 
 # Machine Learning Stuff
