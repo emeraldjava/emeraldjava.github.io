@@ -4,9 +4,9 @@ title: "Azure Global Bootcamp 2016"
 date: "2016-04-16 11:01:49 +0100"
 ---
 
-# Azure Global Bootcamp 2016
+Notes from the Dublin talks
 
-## Niall Moran (10am)
+# Niall Moran (10am)
 
 Azure batch
 Azure container - docker swarm / apache mesos clusters
@@ -26,14 +26,14 @@ Transparent Data Encryption for SQL Databases
 http://aka.ms/AzureBootcampDublin -> https://blogs.msdn.microsoft.com/niallsblog/bootcamp2016/
 ```
 
-## Aiden Casey - Building and Deploying App Services
+# Aiden Casey - Building and Deploying App Services
 
 Web app - customer site
 Login app - order tracking (asych)
 Mobile app - customer / admin app
 API App - rest api for 3rd parties
 
-### Kudu
+## Kudu
 Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites
 https://github.com/projectkudu/kudu
 http://getkudu.io/
@@ -45,7 +45,7 @@ App API
 
 https://www.codemag.com/subscribe/gabc16
 
-#### Atom Editor Issue
+### Atom Editor Issue
 
 Atom editor issue of the day.
 
