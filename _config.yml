@@ -21,28 +21,28 @@ owner:
   linkedin: paultoconnell
   instagram: emeraldjava
   #flickr: 34896940@N06
-  tumblr:
+  #tumblr:
   strava: 7035778
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  #google_plus:
   #disqus-shortname:
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  tumblr: #username
+  #google:
+  #  plus: #username
+  #  analytics:
+  #  verify:
+  #  ad-client:
+  #  ad-slot:
+  #bing-verify:
+  #tumblr: #username
   #pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  #foursquare: #username
+  #steam: #username
+  #dribbble: #username
+  #youtube: #username
+  #soundcloud: #username
+  #weibo: #username
+  #flickr: #username
+  #codepen: #username
 
 # Background image to be tiled on all pages
 #background: abstract-11.jpg
