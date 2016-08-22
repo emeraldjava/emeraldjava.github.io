@@ -7,6 +7,6 @@ date: 2016-07-01 12:00:00
 
 Ginger Beer
 
-{% instagram BJbQUoOhAvt %}
+BJbQUoOhAvt
 
-{% instagram BJbQR3mBz3E %}
+BJbQR3mBz3E
