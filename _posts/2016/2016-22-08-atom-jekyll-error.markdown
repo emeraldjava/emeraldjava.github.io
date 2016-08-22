@@ -5,7 +5,7 @@ date: "2016-08-22 22:38:02"
 ---
 Error when attempting to create a new jekyll post with atom 1.9.9
 
-```
+{% highlight bash %}
 Uncaught YAMLException: duplicated mapping key at line 38, column 3: foursquare: #username ^
 /Applications/Atom.app/Contents/Resources/app.asar/node_modules/roaster/node_modules/js-yaml/lib/js-yaml/loader.js:168
 Hide Stack Trace
@@ -25,7 +25,11 @@ at Object.safeLoad (/Applications/Atom.app/Contents/Resources/app.asar/node_modu
 at Object.module.exports.handleConfigFileOpen (/Users/pauloconnell/.atom/packages/jekyll/lib/jekyll/utils.coffee:25:40)
 at /Users/pauloconnell/.atom/packages/jekyll/lib/jekyll/utils.coffee:20:21
 at FSReqWrap.oncomplete (fs.js:82:15)
-```
+{% endhighlight %}
+
+~~~ html
+<html></html>
+~~~
 
 Screen shot
 
