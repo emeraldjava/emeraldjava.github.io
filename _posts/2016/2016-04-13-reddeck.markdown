@@ -1,0 +1,64 @@
+---
+layout: post
+title: "reddeck"
+date: "2016-04-13 11:50:20 +0100"
+---
+
+https://github.com/Batix/rundeck-ansible-plugin
+
+https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin
+
+https://wiki.jenkins-ci.org/display/JENKINS/Git+Client+Plugin
+https://wiki.jenkins-ci.org/pages/viewpage.action?pageId=73532252
+
+
+
+svn move -m "[CDD] move dev branch to archive" http://grzsvn01.infonova.at/products/clients/eircom/eircom/branches/eircom-master-6.6-GuestWiFi http://grzsvn01.infonova.at/products/clients/eircom/eircom/archive/dev/eircom-master-6.6-GuestWiFi
+
+
+
+```
+WARNING: HTTPS is not enabled, specify -Drundeck.ssl.config=/home/pauloconnell/projects/rundeck/server/config/ssl.properties to enable.
+2016-04-13 11:47:33.851:INFO:oejs.Server:jetty-7.6.0.v20120127
+2016-04-13 11:47:35.745:INFO:oejw.StandardDescriptorProcessor:NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+2016-04-13 11:47:36.714:INFO:/:Initializing Spring root WebApplicationContext
+2016-04-13 11:47:52,503 INFO  BootStrap - Starting Rundeck 2.6.3-1...
+2016-04-13 11:47:52,504 INFO  BootStrap - using rdeck.base config property: /home/pauloconnell/projects/rundeck
+2016-04-13 11:47:52,511 INFO  BootStrap - loaded configuration: /home/pauloconnell/projects/rundeck/etc/framework.properties
+2016-04-13 11:47:53,382 ERROR ScmService - Failed to initialize SCM import plugin git-import for R6: Failed fetch from the repository: Path does not exist: pauloconnell
+com.dtolabs.rundeck.plugins.scm.ScmPluginException: Failed fetch from the repository: Path does not exist: pauloconnell
+	at org.rundeck.plugin.scm.git.BaseGitPlugin.cloneOrCreate(BaseGitPlugin.groovy:429)
+	at org.rundeck.plugin.scm.git.GitImportPlugin.setup(GitImportPlugin.groovy:97)
+	at org.rundeck.plugin.scm.git.GitImportPlugin.initialize(GitImportPlugin.groovy:60)
+	at org.rundeck.plugin.scm.git.GitImportPluginFactory.createPlugin(GitImportPluginFactory.groovy:61)
+	at rundeck.services.ScmService.loadImportPluginWithConfig(ScmService.groovy:642)
+	at rundeck.services.ScmService.loadPluginWithConfig(ScmService.groovy:623)
+	at rundeck.services.ScmService.initPlugin(ScmService.groovy:376)
+	at rundeck.services.ScmService.initialize(ScmService.groovy:96)
+	at BootStrap$_closure1.doCall(BootStrap.groovy:194)
+	at grails.util.Environment.evaluateEnvironmentSpecificBlock(Environment.java:327)
+	at grails.util.Environment.executeForEnvironment(Environment.java:320)
+	at grails.util.Environment.executeForCurrentEnvironment(Environment.java:296)
+	at org.eclipse.jetty.server.handler.ContextHandler.startContext(ContextHandler.java:733)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:233)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1214)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:676)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:455)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:59)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.doStart(HandlerWrapper.java:90)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:261)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:59)
+	at com.dtolabs.rundeck.RunServer.run(RunServer.java:118)
+	at com.dtolabs.rundeck.RunServer.main(RunServer.java:78)
+	at com.dtolabs.rundeck.ExpandRunServer.invokeMain(ExpandRunServer.java:690)
+	at com.dtolabs.rundeck.ExpandRunServer.execute(ExpandRunServer.java:647)
+	at com.dtolabs.rundeck.ExpandRunServer.run(ExpandRunServer.java:304)
+	at com.dtolabs.rundeck.ExpandRunServer.main(ExpandRunServer.java:113)
+Caused by: com.dtolabs.rundeck.plugins.scm.ScmPluginException: Path does not exist: pauloconnell
+	at org.rundeck.plugin.scm.git.BaseGitPlugin.loadStoragePathData(BaseGitPlugin.groovy:377)
+	at org.rundeck.plugin.scm.git.BaseGitPlugin.setupTransportAuthentication(BaseGitPlugin.groovy:496)
+	at org.rundeck.plugin.scm.git.BaseGitPlugin.fetchFromRemote(BaseGitPlugin.groovy:113)
+	at org.rundeck.plugin.scm.git.BaseGitPlugin.cloneOrCreate(BaseGitPlugin.groovy:425)
+	... 26 more
+2016-04-13 11:47:53,421 INFO  BootStrap - RSS feeds disabled
+```

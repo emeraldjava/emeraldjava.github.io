@@ -7,6 +7,8 @@ date: 2016-07-01 12:00:00
 
 Ginger Beer
 
-BJbQUoOhAvt
+![1]({{site.url}}/assets/images/2016/07/01/IMAG0869.jpg){:height="200px" width="100px"}.
 
-BJbQR3mBz3E
+![2]({{site.url}}/assets/images/2016/07/01/IMAG0871.jpg){:height="200px" width="100px"}.
+
+![3]({{site.url}}/assets/images/2016/07/01/IMAG0886.jpg){:height="200px" width="100px"}.
