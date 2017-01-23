@@ -1,91 +1,256 @@
-title:            emeraldjava
-description:      Running, IT and other random postings.
-disqus_shortname: emeraldjava
-reading_time:     true
-words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:
+#
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Owner/author information
-owner:
-  name:           Paul O'Connell
-  avatar:         avatar_poc.jpg
-  bio:            "Java developer, marathon runner and involved with the BHAA."
-  email:          paul.t.oconnell@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: emerald007
-  #facebook:
-  github: emeraldjava
-  stackexchange: http://stackoverflow.com/users/55794/emeraldjava
-  linkedin: paultoconnell
-  instagram: emeraldjava
-  #flickr: 34896940@N06
-  #tumblr:
-  strava: 7035778
-  # google plus id, include the '+', eg +mmistakes
-  #google_plus:
-  #disqus-shortname:
-  #google:
-  #  plus: #username
-  #  analytics:
-  #  verify:
-  #  ad-client:
-  #  ad-slot:
-  #bing-verify:
-  #tumblr: #username
-  #pinterest: #username
-  #foursquare: #username
-  #steam: #username
-  #dribbble: #username
-  #youtube: #username
-  #soundcloud: #username
-  #weibo: #username
-  #flickr: #username
-  #codepen: #username
+# Site Settings
+locale                   : "en"
+title                    : "emeraldjava"
+title_separator          : "-"
+name                     : "emeraldjava"
+description              : "Running, IT and other random postings."
+url                      : http://localhost:4000
+#url                     : http://emeraldjava.github.io/
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "emeraldjava/emeraldjava.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
-# Background image to be tiled on all pages
-#background: abstract-11.jpg
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-2030587-2
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Social Sharing
+twitter:
+  username               : "emerald007"
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Dublin
-future:      true
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-2030587-2"
+
+
+# Site Author
+author:
+  name             : "Paul O'Connell"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g.
+  bio              : "Java developer, marathon runner and involved with the BHAA."
+  location         : "Somewhere"
+  email            : "paul.t.oconnell@gmail.com"
+  uri              : "emeraldjava.github.com"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "emeraldjava"
+  google_plus      :
+  keybase          :
+  instagram        : "emeraldjava"
+  lastfm           :
+  linkedin         : "paultoconnell"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : "55794/emeraldjava" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          : "emerald007"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  disqus_shortname : emeraldjava
+  strava           : "7035778"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+  - /tags
+  - /blog
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "md,markdown,mkdown,mkdn,mkd"
+
+# Conversion
+markdown: kramdown
 highlighter: rouge
-markdown:    kramdown
-gems:
- - jekyll-sitemap
- - jekyll-gist
- - jekyll-feed
-sass:
-  sass_dir: _sass
-  style: compressed
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-# Amount of post to show on home page
-paginate: 5
-
+# Markdown Processing
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  enable_coderay: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
 
-include: [".htaccess"]
-#exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 7 # amount of posts to show
+paginate_path: /page:num/
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
