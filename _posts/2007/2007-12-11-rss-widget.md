@@ -1,6 +1,6 @@
 ---
 title: RSS Widget
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Dec 11 08:54:00 GMT 2007
 ---

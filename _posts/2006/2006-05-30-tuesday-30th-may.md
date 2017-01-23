@@ -1,6 +1,6 @@
 ---
 title: Tuesday 30th May
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue May 30 01:13:00 IST 2006

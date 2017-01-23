@@ -1,6 +1,6 @@
 ---
 title: Jimi image library not available - Docbook/PDF
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Nov 11 09:35:00 GMT 2008
 ---

@@ -1,6 +1,6 @@
 ---
 title: Java Persistence API
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Sep 21 18:03:00 IST 2007
 ---

@@ -1,6 +1,6 @@
 ---
 title: National Half Marathon 2011 Anaylsis
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Feb 29 13:01:00 GMT 2012
 ---

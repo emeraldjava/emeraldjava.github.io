@@ -1,6 +1,6 @@
 ---
 title: July 21st - Hervey Bay
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Mon Aug 07 03:48:00 IST 2006

@@ -1,6 +1,6 @@
 ---
 title: Spring BeanDoc Issues
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Apr 08 10:05:00 IST 2008
 ---

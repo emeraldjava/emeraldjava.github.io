@@ -1,6 +1,6 @@
 ---
 title: Spring MVC - DispatchServlet config
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Apr 21 15:59:00 IST 2008
 ---

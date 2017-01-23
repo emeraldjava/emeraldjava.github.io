@@ -1,6 +1,6 @@
 ---
 title: Swing Jabel - text / image background colours
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Mar 25 12:19:00 GMT 2010
 ---

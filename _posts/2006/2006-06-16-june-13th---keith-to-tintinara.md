@@ -1,6 +1,6 @@
 ---
 title: June 13th - Keith to Tintinara
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Fri Jun 16 10:52:00 IST 2006

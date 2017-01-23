@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Six Levels of Scala
 category: programming
 tags: [scala,2015]

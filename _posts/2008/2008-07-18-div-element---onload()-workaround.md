@@ -1,6 +1,6 @@
 ---
 title: Div element onload() workaround
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Jul 18 10:57:00 IST 2008
 ---

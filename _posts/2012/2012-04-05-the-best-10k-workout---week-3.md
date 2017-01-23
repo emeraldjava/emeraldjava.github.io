@@ -1,6 +1,6 @@
 ---
 title: The Best 10K Workout - Week 3
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Apr 05 23:28:00 IST 2012
 ---

@@ -1,6 +1,6 @@
 ---
 title: SVN relocate command
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Feb 06 09:20:00 GMT 2008
 ---

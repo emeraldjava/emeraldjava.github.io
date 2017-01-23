@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: xml-to-yaml
 categories: ['running', 'programming', 'general']
 tags: []

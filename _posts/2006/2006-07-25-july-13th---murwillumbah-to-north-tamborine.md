@@ -1,6 +1,6 @@
 ---
 title: July 13th - Murwillumbah to North Tamborine
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Jul 25 04:13:00 IST 2006
 ---

@@ -1,6 +1,6 @@
 ---
 title: Extending ANT JUnitTask
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Jul 13 15:18:00 IST 2007
 ---

@@ -1,6 +1,6 @@
 ---
 title: BHAA Wordpress Schema ERD
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon May 28 16:06:00 IST 2012
 ---

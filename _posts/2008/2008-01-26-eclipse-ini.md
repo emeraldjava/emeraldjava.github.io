@@ -1,6 +1,6 @@
 ---
 title: eclipse.ini
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sat Jan 26 11:05:00 GMT 2008
 ---

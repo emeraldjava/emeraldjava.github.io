@@ -1,6 +1,6 @@
 ---
 title: June 3rd - Blairgowrie to Torquay
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Wed Jun 07 03:52:00 IST 2006

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Using composer to generate an autoload file for my wordpress plugin"
 date: "2016-04-01 17:01:49 +0100"
 ---

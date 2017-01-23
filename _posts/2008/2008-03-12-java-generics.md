@@ -1,7 +1,7 @@
 ---
-layout: post
+
 title: Java Generics
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Mar 12 12:57:00 GMT 2008
 ---

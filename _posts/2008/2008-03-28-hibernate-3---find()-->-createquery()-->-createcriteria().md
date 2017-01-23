@@ -1,6 +1,6 @@
 ---
 title: Hibernate 3 - find() -> createQuery() -> createCriteria()
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Mar 28 18:42:00 GMT 2008
 ---

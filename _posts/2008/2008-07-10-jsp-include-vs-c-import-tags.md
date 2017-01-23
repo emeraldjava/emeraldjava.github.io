@@ -1,6 +1,6 @@
 ---
 title: Jsp:include vs c:import tags
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Jul 10 09:54:00 IST 2008
 ---

@@ -1,6 +1,6 @@
 ---
 title: June 2nd - Melbourne to Sorrento
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Wed Jun 07 03:39:00 IST 2006

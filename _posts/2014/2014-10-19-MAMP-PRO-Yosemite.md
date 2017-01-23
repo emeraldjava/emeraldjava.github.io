@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "MAMP PRO Apache Yosemite"
 date:   2014-10-19 12:54:00
 category: programming

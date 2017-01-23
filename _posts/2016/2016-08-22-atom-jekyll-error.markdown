@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "atom jekyll error - duplicate mapping key at line"
 date: "2016-08-22 22:38:02"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hangman with Generics
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Mar 12 13:15:00 GMT 2008
 ---

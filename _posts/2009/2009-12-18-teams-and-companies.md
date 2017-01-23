@@ -1,6 +1,6 @@
 ---
 title: Teams and Companies
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Dec 18 14:59:00 GMT 2009
 ---

@@ -1,6 +1,6 @@
 ---
 title: Morzine - Les Gets
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Jul 22 10:46:00 IST 2008
 ---

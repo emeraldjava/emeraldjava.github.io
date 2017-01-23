@@ -1,6 +1,6 @@
 ---
 title: insertClob
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Oct 21 11:07:00 IST 2010
 ---

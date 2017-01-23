@@ -1,6 +1,6 @@
 ---
 title: JMockit Non-public mock class
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Jun 14 13:31:00 IST 2007
 ---

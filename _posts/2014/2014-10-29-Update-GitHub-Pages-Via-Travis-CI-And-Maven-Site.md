@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Update GitHub Pages Via Travis CI And Maven Site"
 date:   2014-10-29 17:00:00
 category: programming

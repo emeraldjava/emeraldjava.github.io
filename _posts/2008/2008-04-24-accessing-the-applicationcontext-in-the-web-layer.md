@@ -1,6 +1,6 @@
 ---
 title: Accessing the ApplicationContext in the Web Layer
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Apr 24 10:02:00 IST 2008
 ---

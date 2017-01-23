@@ -1,6 +1,6 @@
 ---
 title: NTLM with Firefox
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Feb 05 14:18:00 GMT 2008
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Microsoft Azure Stack"
 date: "2016-02-04"
 ---

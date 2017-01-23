@@ -1,6 +1,6 @@
 ---
 title: Thursday 1st June
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Thu Jun 01 11:08:00 IST 2006

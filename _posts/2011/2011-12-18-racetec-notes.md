@@ -1,6 +1,6 @@
 ---
 title: RaceTec Notes
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sun Dec 18 17:57:00 GMT 2011
 ---

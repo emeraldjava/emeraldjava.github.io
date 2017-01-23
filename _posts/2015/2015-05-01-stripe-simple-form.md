@@ -1,5 +1,4 @@
 ---
-layout:  post
 title: Stripe Simple Form
 categories: [stripe]
 tags: [stripe,2015]

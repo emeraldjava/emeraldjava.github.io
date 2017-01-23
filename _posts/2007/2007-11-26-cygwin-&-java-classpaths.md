@@ -1,6 +1,6 @@
 ---
 title: cygwin & java classpaths
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Nov 26 15:59:00 GMT 2007
 ---

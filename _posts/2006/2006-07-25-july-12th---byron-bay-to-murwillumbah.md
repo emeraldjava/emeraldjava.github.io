@@ -1,6 +1,6 @@
 ---
 title: July 12th - Byron Bay to Murwillumbah
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 25 04:12:00 IST 2006

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Ginger Beer
 category: homebrew
 date: 2016-07-01 12:00:00

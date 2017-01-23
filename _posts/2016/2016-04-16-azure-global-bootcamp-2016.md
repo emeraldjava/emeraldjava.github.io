@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Azure Global Bootcamp 2016"
 date: "2016-04-16 11:01:49 +0100"
 ---

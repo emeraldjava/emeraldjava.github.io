@@ -1,6 +1,6 @@
 ---
 title: The final trip
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Sat Aug 26 12:30:00 IST 2006

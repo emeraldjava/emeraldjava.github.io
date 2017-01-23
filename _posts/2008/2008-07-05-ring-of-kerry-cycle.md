@@ -1,6 +1,6 @@
 ---
 title: Ring of Kerry Cycle
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sat Jul 05 20:32:00 IST 2008
 ---

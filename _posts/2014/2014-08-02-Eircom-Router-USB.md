@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Eircom Router USB Mount"
 date:   2014-08-02 11:08:26
 category: general

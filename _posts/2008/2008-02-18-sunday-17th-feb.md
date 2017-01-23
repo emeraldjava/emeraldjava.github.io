@@ -1,6 +1,6 @@
 ---
 title: Sunday 17th Feb
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Feb 18 09:16:00 GMT 2008
 ---

@@ -1,6 +1,6 @@
 ---
 title: Syntaxhighlighter 1.5.1 Blogger
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Sep 24 09:58:00 IST 2008
 ---

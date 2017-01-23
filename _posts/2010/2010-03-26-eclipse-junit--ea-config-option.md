@@ -1,6 +1,6 @@
 ---
 title: Eclipse Junit -EA Config Option?
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Mar 26 11:29:00 GMT 2010
 ---

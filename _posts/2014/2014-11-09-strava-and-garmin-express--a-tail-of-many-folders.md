@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Strava and Garmin Express - A tail of many folders
 published: True
 date: 2014-11-09 17:17:09

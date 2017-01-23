@@ -1,6 +1,6 @@
 ---
 title: Display web request attributes and parameters
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Apr 07 12:02:00 IST 2008
 ---

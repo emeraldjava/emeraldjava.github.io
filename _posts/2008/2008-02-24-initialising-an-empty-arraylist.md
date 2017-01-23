@@ -1,6 +1,6 @@
 ---
 title: Initialising an empty arraylist
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sun Feb 24 19:26:00 GMT 2008
 ---

@@ -1,6 +1,6 @@
 ---
+
 title: Morzine - Avoriaz
-layout: post
 category: blogger
 # Pulled from Blogger. Last updated there on: Sun Jul 20 10:39:00 IST 2008
 ---

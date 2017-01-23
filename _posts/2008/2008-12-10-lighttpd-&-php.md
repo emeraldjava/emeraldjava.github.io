@@ -1,6 +1,6 @@
 ---
 title: Lighttpd & PHP
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Dec 10 18:54:00 GMT 2008
 ---

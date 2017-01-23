@@ -1,6 +1,6 @@
 ---
 title: RaceTec Registration File Import Mapping
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Dec 29 10:34:00 GMT 2011
 ---

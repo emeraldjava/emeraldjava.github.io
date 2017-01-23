@@ -1,6 +1,6 @@
 ---
 title: July 1st - Newcastle
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 04 07:01:00 IST 2006

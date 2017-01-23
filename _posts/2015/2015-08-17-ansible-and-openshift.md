@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: ansible and openshift
 categories: ['programming']
 tags: []

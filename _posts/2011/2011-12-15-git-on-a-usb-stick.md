@@ -1,6 +1,6 @@
 ---
 title: Git on a USB Stick
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Dec 15 13:06:00 GMT 2011
 ---

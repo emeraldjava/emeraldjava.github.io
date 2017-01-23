@@ -1,6 +1,6 @@
 ---
 title: Maven OutOfMemory
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Nov 09 10:42:00 GMT 2007
 ---

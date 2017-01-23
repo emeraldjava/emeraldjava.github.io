@@ -1,6 +1,6 @@
 ---
 title: Web Method Names
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Jul 15 14:17:00 IST 2008
 ---

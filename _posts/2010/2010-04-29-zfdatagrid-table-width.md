@@ -1,6 +1,6 @@
 ---
 title: ZFDataGrid table width?
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Apr 29 16:08:00 IST 2010
 ---

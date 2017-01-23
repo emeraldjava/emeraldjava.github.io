@@ -1,6 +1,6 @@
 ---
 title: June 29th - Sydney to Kincumber
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 04 06:57:00 IST 2006

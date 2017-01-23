@@ -1,6 +1,6 @@
 ---
 title: Ballyliffin 10 Mile 2012
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Apr 10 17:55:00 IST 2012
 ---

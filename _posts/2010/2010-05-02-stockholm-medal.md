@@ -1,6 +1,6 @@
 ---
 title: Stockholm Medal
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sun May 02 13:14:00 IST 2010
 ---

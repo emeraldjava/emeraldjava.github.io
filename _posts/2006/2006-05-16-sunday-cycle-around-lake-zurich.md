@@ -1,6 +1,6 @@
 ---
 title: Sunday Cycle around Lake Zurich
-layout: post
+
 tags: [cycling,2006]
 # Pulled from Blogger. Last updated there on: Tue May 16 21:04:00 IST 2006
 ---

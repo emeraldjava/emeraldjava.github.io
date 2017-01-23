@@ -1,6 +1,6 @@
 ---
 title: The Open Closed Principle
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Mar 11 11:41:00 GMT 2008
 ---

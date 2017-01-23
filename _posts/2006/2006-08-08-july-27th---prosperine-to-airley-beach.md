@@ -1,6 +1,6 @@
 ---
 title: July 27th - Prosperine to Airley Beach
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Aug 08 02:01:00 IST 2006

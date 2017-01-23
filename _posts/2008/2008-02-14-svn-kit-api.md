@@ -1,6 +1,6 @@
 ---
 title: SVN KIT API
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Feb 14 11:46:00 GMT 2008
 ---

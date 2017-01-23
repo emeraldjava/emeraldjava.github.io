@@ -1,6 +1,6 @@
 ---
 title: The story of the stolen bike
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Sat Aug 26 12:26:00 IST 2006

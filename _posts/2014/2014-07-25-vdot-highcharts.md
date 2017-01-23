@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Vdot and Highcharts"
 date:   2014-07-25 17:12:35
 category: running

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Playing with Gists"
 date:   2014-06-26 16:52:35
 category: github

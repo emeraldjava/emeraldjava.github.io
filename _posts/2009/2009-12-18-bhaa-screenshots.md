@@ -1,6 +1,6 @@
 ---
 title: BHAA Screenshots
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Dec 18 16:50:00 GMT 2009
 ---

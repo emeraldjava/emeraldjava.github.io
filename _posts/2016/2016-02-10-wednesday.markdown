@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Ubuntu - Add Intellij to menu"
 date: "2016-02-10 09:21:23"
 ---

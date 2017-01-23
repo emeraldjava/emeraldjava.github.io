@@ -1,6 +1,6 @@
 ---
 title: phpunit and PEAR
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Jan 17 15:30:00 GMT 2012
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Bower Settings"
 date:   2014-09-01 13:19:00
 category: programming

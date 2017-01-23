@@ -1,6 +1,6 @@
 ---
 title: Racetec Event Setup
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Dec 23 10:36:00 GMT 2011
 ---

@@ -1,6 +1,6 @@
 ---
 title: AbstractTransactionalDataSourceSpringContextTests
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Feb 08 17:03:00 GMT 2008
 ---

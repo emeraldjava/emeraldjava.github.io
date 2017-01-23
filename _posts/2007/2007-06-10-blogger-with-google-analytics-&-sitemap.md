@@ -1,6 +1,6 @@
 ---
 title: Blogger with Google Analytics & Sitemap
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sun Jun 10 13:39:00 IST 2007
 ---

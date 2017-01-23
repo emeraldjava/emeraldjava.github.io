@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Garmin Embedded Courses"
 date:   2014-07-26 18:59:35
 category: running

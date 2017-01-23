@@ -1,6 +1,6 @@
 ---
 title: org.jboss.security.plugins.JBossSecurityContext
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Mar 11 11:36:00 GMT 2010
 ---

@@ -1,6 +1,6 @@
 ---
 title: Blogger & Google Code Prettify
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sat Jun 09 12:24:00 IST 2007
 ---

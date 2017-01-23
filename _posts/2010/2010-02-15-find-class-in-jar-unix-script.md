@@ -1,6 +1,6 @@
 ---
 title: Find class in jar unix script
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Feb 15 13:44:00 GMT 2010
 ---

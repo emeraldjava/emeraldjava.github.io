@@ -1,6 +1,6 @@
 ---
 title: Oracle XE and Ubuntu
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Nov 17 09:40:00 GMT 2009
 ---

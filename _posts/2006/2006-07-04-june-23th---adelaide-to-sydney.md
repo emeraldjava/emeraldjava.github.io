@@ -1,6 +1,6 @@
 ---
 title: June 23th - Adelaide to Sydney
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 04 06:53:00 IST 2006

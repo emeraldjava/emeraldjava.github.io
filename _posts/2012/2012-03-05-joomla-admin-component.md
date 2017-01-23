@@ -1,6 +1,6 @@
 ---
 title: Joomla Admin Component
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Mar 05 14:29:00 GMT 2012
 ---

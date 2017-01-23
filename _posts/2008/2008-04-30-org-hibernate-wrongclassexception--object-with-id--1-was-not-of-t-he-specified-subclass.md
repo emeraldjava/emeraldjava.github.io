@@ -1,6 +1,6 @@
 ---
 title: org.hibernate.WrongClassException - Object with id 1 was not of the specified subclass
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Apr 30 17:15:00 IST 2008
 ---

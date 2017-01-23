@@ -1,6 +1,6 @@
 ---
 title: Last Day In Zurich
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Wed May 24 11:56:00 IST 2006

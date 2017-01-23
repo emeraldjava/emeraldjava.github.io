@@ -1,6 +1,6 @@
 ---
 title: document.execCommand('SaveAs','1','Name of the webpage.htm');
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Jul 31 11:36:00 IST 2008
 ---

@@ -1,6 +1,6 @@
 ---
 title: Installing Java JTP into Maven
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Dec 07 09:31:00 GMT 2007
 ---

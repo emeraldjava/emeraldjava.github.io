@@ -1,6 +1,6 @@
 ---
 title: July 6th - Armindale to Dorrigo
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Sun Jul 09 12:37:00 IST 2006

@@ -1,6 +1,6 @@
 ---
 title: reconfigure oracle-xe on ubuntu
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Nov 17 12:11:00 GMT 2009
 ---

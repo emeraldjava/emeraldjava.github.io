@@ -1,6 +1,6 @@
 ---
 title: jasperreports checksum issue with maven
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Nov 09 10:02:00 GMT 2010
 ---

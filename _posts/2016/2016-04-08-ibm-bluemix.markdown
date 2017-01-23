@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "ibm bluemix"
 date: "2016-04-08 09:36:23 +0100"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "wed-feb-24"
 date: "2016-02-24 08:49:59 +0000"
 ---

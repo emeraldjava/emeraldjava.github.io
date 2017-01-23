@@ -1,6 +1,6 @@
 ---
 title: Ubuntu Hosts
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Dec 15 13:47:00 GMT 2011
 ---

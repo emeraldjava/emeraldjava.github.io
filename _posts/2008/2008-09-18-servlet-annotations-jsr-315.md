@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Servlet annotations
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Sep 18 10:44:00 IST 2008

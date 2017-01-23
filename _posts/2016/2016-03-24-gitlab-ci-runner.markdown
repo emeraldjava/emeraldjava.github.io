@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "gitlab ci runner"
 date: "2016-03-24 14:02:43 +0000"
 ---

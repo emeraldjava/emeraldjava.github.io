@@ -1,6 +1,6 @@
 ---
 title: July 4th - Nowendoc to Walka
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Sun Jul 09 12:35:00 IST 2006

@@ -1,6 +1,6 @@
 ---
 title: Hibernate Local Session Factory Bean
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Dec 20 14:24:00 GMT 2007
 ---

@@ -1,6 +1,6 @@
 ---
 title: June 24th - 28th - Sydney
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 04 06:54:00 IST 2006

@@ -1,6 +1,6 @@
 ---
 title: Eclipse 3.4 & Tomcat Runtime Server Config
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Sep 15 16:50:00 IST 2008
 ---

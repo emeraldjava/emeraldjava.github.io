@@ -1,6 +1,6 @@
 ---
 title: confluence.public.thoughtworks.org - 502 error
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Dec 22 14:37:00 GMT 2008
 ---

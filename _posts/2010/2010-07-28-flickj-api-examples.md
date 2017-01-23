@@ -1,6 +1,6 @@
 ---
 title: Flickj API Examples
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Jul 28 15:40:00 IST 2010
 ---

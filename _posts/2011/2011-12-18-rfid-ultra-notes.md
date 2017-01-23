@@ -1,6 +1,6 @@
 ---
 title: RFID Ultra Notes
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sun Dec 18 17:42:00 GMT 2011
 ---

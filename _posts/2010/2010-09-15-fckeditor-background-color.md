@@ -1,6 +1,6 @@
 ---
 title: FCKEditor background color
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Sep 15 17:08:00 IST 2010
 ---

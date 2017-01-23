@@ -1,6 +1,6 @@
 ---
 title: BHAA Results with Embedded IFrame
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Mar 26 14:49:00 GMT 2010
 ---

@@ -1,6 +1,6 @@
 ---
 title: org.quartz.SchedulerException - ThreadPool class not specified.
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri May 09 14:33:00 IST 2008
 ---

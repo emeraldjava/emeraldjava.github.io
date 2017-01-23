@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "angularjs 2 tutorial - Can't bind to 'hero' since it isn't a known property of 'hero-detail'"
 date: "2016-08-28 12:10:02"
 ---

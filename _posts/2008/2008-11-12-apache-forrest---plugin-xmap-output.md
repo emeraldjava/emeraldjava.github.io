@@ -1,6 +1,6 @@
 ---
 title: Apache Forrest - plugin.xmap.output?
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Nov 12 14:19:00 GMT 2008
 ---

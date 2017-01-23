@@ -1,6 +1,6 @@
 ---
 title: Customised Eclipse Java Search Results View
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Nov 13 09:23:00 GMT 2008
 ---

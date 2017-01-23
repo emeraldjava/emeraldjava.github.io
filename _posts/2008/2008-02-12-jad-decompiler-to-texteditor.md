@@ -1,6 +1,6 @@
 ---
 title: JAD decompiler to texteditor
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Feb 12 08:59:00 GMT 2008
 ---

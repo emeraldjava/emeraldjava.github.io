@@ -1,6 +1,6 @@
 ---
 title: Testlink Automated Tests
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Jul 28 12:40:00 IST 2011
 ---

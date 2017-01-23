@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Csr diffs
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Aug 01 14:56:00 IST 2008

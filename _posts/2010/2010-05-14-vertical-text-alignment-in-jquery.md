@@ -1,6 +1,6 @@
 ---
 title: Vertical Text Alignment in JQuery
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri May 14 12:35:00 IST 2010
 ---

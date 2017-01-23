@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "And-so-the-github-jekyll-blog-begins"
 date:   2014-03-22 13:24:30
 category: general

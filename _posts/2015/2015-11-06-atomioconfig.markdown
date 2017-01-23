@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "atom-io-config"
 date: "2015-11-06"
 link: http://mademistakes.com

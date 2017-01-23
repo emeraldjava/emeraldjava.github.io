@@ -1,6 +1,6 @@
 ---
 title: Post an image to a blog
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Apr 22 15:45:00 IST 2008
 ---

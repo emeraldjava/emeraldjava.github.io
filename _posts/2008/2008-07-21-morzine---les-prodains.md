@@ -1,6 +1,6 @@
 ---
 title: Morzine - Les Prodains
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Jul 21 10:43:00 IST 2008
 ---

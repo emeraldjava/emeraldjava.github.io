@@ -1,6 +1,6 @@
 ---
 title: Marathon Time Progression
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sat Dec 24 21:25:00 GMT 2011
 ---

@@ -1,6 +1,6 @@
 ---
 title: Add RestFB jars to maven
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Sep 01 10:09:00 IST 2010
 ---

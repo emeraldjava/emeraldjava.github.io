@@ -1,6 +1,6 @@
 ---
 title: Ordinal 2684 LIBEAY32.dll - CruiseControl SVN
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Sep 25 17:44:00 IST 2008
 ---

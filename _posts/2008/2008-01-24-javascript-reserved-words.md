@@ -1,6 +1,6 @@
 ---
 title: Javascript reserved words
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Jan 24 14:45:00 GMT 2008
 ---

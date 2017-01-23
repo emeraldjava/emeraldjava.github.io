@@ -1,6 +1,6 @@
 ---
 title: June 19th - Kangaroo Island Cycle
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 04 06:48:00 IST 2006

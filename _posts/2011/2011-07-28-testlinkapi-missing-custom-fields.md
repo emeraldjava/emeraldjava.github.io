@@ -1,6 +1,6 @@
 ---
 title: TestLinkAPI missing custom fields
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Jul 28 14:56:00 IST 2011
 ---

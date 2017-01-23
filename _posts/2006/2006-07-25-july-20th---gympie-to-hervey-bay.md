@@ -1,6 +1,6 @@
 ---
 title: July 20th - Gympie to Hervey Bay
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 25 04:22:00 IST 2006

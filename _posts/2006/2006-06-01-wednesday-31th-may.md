@@ -1,6 +1,6 @@
 ---
 title: Wednesday 31th May
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Thu Jun 01 10:59:00 IST 2006

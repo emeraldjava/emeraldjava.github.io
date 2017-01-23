@@ -1,6 +1,6 @@
 ---
 title: Monthly Km's
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Dec 30 11:49:00 GMT 2011
 ---

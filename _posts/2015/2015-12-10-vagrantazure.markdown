@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "vagrant-azure"
 date: "2015-12-10"
 ---

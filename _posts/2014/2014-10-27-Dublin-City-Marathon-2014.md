@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Dublin City Marathon 2014"
 date:   2014-10-27 09:00:00
 category: running

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Daily delicious posts report"
 date: "2015-11-09"
 ---

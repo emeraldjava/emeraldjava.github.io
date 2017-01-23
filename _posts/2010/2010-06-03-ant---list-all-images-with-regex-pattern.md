@@ -1,6 +1,6 @@
 ---
 title: ANT - List all images with regex pattern
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Jun 03 15:10:00 IST 2010
 ---

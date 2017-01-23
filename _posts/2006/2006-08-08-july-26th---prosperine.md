@@ -1,6 +1,6 @@
 ---
 title: July 26th - Prosperine
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Aug 08 01:52:00 IST 2006

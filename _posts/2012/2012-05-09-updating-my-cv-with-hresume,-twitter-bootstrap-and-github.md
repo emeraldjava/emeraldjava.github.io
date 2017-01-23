@@ -1,6 +1,6 @@
 ---
 title: Updating my CV with hresume, twitter bootstrap and github
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed May 09 17:40:00 IST 2012
 ---

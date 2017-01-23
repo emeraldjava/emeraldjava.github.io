@@ -1,6 +1,6 @@
 ---
 title: Flot - with x-axis ticks
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sun Jan 10 13:27:00 GMT 2010
 ---

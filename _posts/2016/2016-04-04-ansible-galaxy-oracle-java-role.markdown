@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "ansible galaxy oracle java role"
 date: "2016-04-04 11:30:06 +0100"
 ---

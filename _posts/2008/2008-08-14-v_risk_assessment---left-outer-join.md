@@ -1,6 +1,6 @@
 ---
 title: V_RISK_ASSESSMENT - LEFT OUTER JOIN
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Thu Aug 14 18:06:00 IST 2008
 ---

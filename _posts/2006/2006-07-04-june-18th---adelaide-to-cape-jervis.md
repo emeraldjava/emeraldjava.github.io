@@ -1,6 +1,6 @@
 ---
 title: June 18th - Adelaide to Cape Jervis
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 04 06:44:00 IST 2006

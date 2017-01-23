@@ -1,6 +1,6 @@
 ---
 title: Maven plugin artifact
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Sep 17 17:54:00 IST 2008
 ---

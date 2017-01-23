@@ -1,6 +1,6 @@
 ---
 title: July 18th - Brisbane to Noosa
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 25 04:19:00 IST 2006

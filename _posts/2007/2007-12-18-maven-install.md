@@ -1,6 +1,6 @@
 ---
 title: Maven Install
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Dec 18 11:05:00 GMT 2007
 ---

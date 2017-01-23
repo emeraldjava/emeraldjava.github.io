@@ -1,6 +1,6 @@
 ---
 title: Dom4j DocumentHelper.createDocument()
-layout: post
+
 category: blogger
 ---
 

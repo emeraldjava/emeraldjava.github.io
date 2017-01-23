@@ -1,6 +1,6 @@
 ---
 title: July 9th - Woodburn to Byron Bay
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Sun Jul 09 12:39:00 IST 2006

@@ -1,6 +1,6 @@
 ---
 title: Google Syntax Highlighter
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Jul 13 15:52:00 IST 2007
 ---

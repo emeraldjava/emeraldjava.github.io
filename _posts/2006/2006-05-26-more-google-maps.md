@@ -1,6 +1,6 @@
 ---
 title: More Google Maps
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Fri May 26 18:02:00 IST 2006

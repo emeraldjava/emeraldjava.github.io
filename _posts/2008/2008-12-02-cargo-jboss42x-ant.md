@@ -1,6 +1,6 @@
 ---
 title: Cargo Jboss42x ANT
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Dec 02 11:25:00 GMT 2008
 ---

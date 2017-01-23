@@ -1,6 +1,6 @@
 ---
 title: July 29th - Aug 1st - Whitsunday Islands
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Aug 08 06:20:00 IST 2006

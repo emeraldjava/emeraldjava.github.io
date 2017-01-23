@@ -1,6 +1,6 @@
 ---
 title: Preforce, Intellij & Ubuntu
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Dec 04 16:28:00 GMT 2009
 ---

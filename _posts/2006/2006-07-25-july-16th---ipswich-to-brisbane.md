@@ -1,6 +1,6 @@
 ---
 title: July 16th - Ipswich to Brisbane
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Tue Jul 25 04:18:00 IST 2006

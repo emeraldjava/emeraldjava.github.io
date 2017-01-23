@@ -1,6 +1,6 @@
 ---
 title: SSH access to Joyent
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Sat Dec 08 18:12:00 GMT 2007
 ---

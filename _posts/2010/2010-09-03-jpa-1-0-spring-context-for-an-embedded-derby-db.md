@@ -1,6 +1,6 @@
 ---
 title: JPA 1.0 Spring Context for an Embedded Derby DB
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Fri Sep 03 11:26:00 IST 2010
 ---

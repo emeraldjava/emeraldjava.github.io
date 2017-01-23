@@ -1,6 +1,6 @@
 ---
 title: Google AppEngine 1.3.6 AND Maven
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Mon Aug 23 10:30:00 IST 2010
 ---

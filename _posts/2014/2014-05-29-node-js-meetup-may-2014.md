@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Node JS Meetup May 2014"
 date:   2014-05-29 18:55:30
 category: programming

@@ -1,6 +1,6 @@
 ---
 title: Adding Flickrj 1.2 to maven
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Wed Jul 28 11:56:00 IST 2010
 ---

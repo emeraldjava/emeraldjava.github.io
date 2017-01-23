@@ -1,6 +1,6 @@
 ---
 title: When to use ${basedir} with ANT
-layout: post
+
 category: blogger
 # Pulled from Blogger. Last updated there on: Tue Jul 10 15:40:00 IST 2007
 ---

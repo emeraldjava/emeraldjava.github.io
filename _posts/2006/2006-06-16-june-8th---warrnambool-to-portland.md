@@ -1,6 +1,6 @@
 ---
 title: June 8th - Warrnambool to Portland
-layout: post
+
 category: blogger
 tags: [2006]
 # Pulled from Blogger. Last updated there on: Fri Jun 16 10:28:00 IST 2006
