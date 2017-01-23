@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "better-brew-ipa.md"
+title: "better-brew-ipa"
 date: "2017-01-22 21:34:18 +0000"
 ---
 
