@@ -1,15 +1,18 @@
-# Site navigation links
-- title: About
-  url: /about/
+# main links
+main:
+  #- title: CV
+  #  url: /cv/index.html
 
-- title: bhaa.ie
-  url: http://bhaa.ie
+  #- title: bhaa.ie
+  #  url: http://bhaa.ie
 
-#- title: Sample Posts
-#  url: /posts/
-
-#- title: Theme Setup
-#  url: /theme-setup/
-
-#- title: Made Mistakes
-#  url: http://mademistakes.com
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
