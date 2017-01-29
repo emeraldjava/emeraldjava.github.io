@@ -35,8 +35,10 @@ https://stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-
 https://forums.plex.tv/discussion/200002/add-custom-ssl-certs-now-available-for-everyone-how-to
 
 ```
-openssl pkcs12 -export -out archive.pfx -inkey privkey.pem -in cert.pem -certfile chain.pem -password ds1512
+openssl pkcs12 -export -out archive.pfx -inkey privkey.pem -in cert.pem -certfile chain.pem
 ```
+
+openssl pkcs12 -export -out emeraldjava.noip.me.pfx -inkey privkey.pem -in cert.pem -certfile chain.pem -name "emeraldjava.noip.me"
 
 /volume1/homes/admin/.ssh/archive.pfx
 ds1512
@@ -49,3 +51,7 @@ https://community.letsencrypt.org/t/ssl-not-working-after-updating-letsencrypt-c
 ```
 https://emeraldjava.noip.me:32400/ Unable to communicate securely with peer: requested domain name does not match the server’s certificate. HTTP Strict Transport Security: true HTTP Public Key Pinning: false Certificate chain:
 ```
+
+http://stackoverflow.com/questions/21138420/openssl-fails-to-produce-a-pfx-with-a-valid-aliase
+
+https://itigloo.com/security/how-to-configure-http-strict-transport-security-hsts-on-apache-nginx/
