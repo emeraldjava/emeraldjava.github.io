@@ -7,14 +7,16 @@ bundle exec jekyll build
 bundle exec jekyll serve
 bundle exec jekyll serve --verbose
 bundle exec jekyll build --trace
-
-
-
 ```
+
+http://localhost:4000/homebrew/2016/08/14/st-peters-ipa.html
 
 https://github.com/jekyll/jekyll/issues/5163
 https://github.com/mmistakes/made-mistakes-jekyll/blob/master/src/_includes/paginator.html
 https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md
+
+
+move to the latest version of jekyll
 
 ```
  bundle exec jekyll serve -t

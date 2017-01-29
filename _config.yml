@@ -204,7 +204,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 gems:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -213,7 +213,7 @@ gems:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
