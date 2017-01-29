@@ -5,6 +5,11 @@
 ```
 bundle exec jekyll build
 bundle exec jekyll serve
+bundle exec jekyll serve --verbose
+bundle exec jekyll build --trace
+
+
+
 ```
 
 https://github.com/jekyll/jekyll/issues/5163
