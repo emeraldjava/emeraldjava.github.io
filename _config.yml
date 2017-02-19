@@ -12,8 +12,7 @@ title                    : "emeraldjava"
 title_separator          : "-"
 name                     : "emeraldjava"
 description              : "Running, IT and other random postings."
-url                      : http://localhost:4000
-#url                     : http://emeraldjava.github.io/
+#url                      : https://emeraldjava.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "emeraldjava/emeraldjava.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
