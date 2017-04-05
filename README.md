@@ -2,6 +2,8 @@
 
 **[emeraldjava.github.io](https://emeraldjava.github.io)** uses [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes) as its jekyll theme.
 
+https://github.com/glennsarti
+
 http://emeraldjava.github.io/bhaawp/
 
 http://emeraldjava.github.io/
@@ -10,9 +12,11 @@ http://emeraldjava.github.io/
 ```
 bundle exec jekyll build
 bundle exec jekyll serve
-bundle exec jekyll serve --verbose
 bundle exec jekyll build --trace
 ```
+
+jekyll build --watchjekyll build --watch
+
 
 http://localhost:4000/homebrew/2016/08/14/st-peters-ipa.html
 
