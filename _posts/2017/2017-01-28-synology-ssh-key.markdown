@@ -2,6 +2,8 @@
 layout: single
 title: "synology ssh key"
 date: "2017-01-28 18:34:18 +0000"
+categories: dev
+tags: [synology]
 ---
 
 Setting up a SSH key for synology
