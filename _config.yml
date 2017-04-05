@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Paul O'Connell"
-  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g.
+  avatar           : "/images/avatar.jpg" # path of avatar image, e.g.
   bio              : "Java developer, marathon runner and involved with the BHAA."
-  location         : "Somewhere"
-  email            : "paul.t.oconnell@gmail.com"
+  location         : "Dublin, Ireland"
+  email            : #"paul.t.oconnell@gmail.com"
   uri              : "emeraldjava.github.com"
   bitbucket        :
   codepen          :
