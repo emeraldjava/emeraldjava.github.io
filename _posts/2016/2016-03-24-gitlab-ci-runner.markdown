@@ -30,7 +30,7 @@ One item to note is that '/ci' must be appended to your gitlabs url
 A nice image
 
 <figure class="third">
-	<img src="http://emeraldjava.github.io/assets/images/2016/03/24/gitlab-ci-build-runner.png">
+	<img src="http://emeraldjava.github.io/images/2016/03/24/gitlab-ci-build-runner.png">
   <figcaption>Caption describing these three images.</figcaption>
 </figure>
 
