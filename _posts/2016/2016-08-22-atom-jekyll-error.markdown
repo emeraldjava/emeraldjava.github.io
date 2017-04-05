@@ -29,4 +29,4 @@ at FSReqWrap.oncomplete (fs.js:82:15)
 
 Screen shot
 
-![atom-jekyll-error]({{site.url}}/assets/images/2016/08/22/atom-jekyll-error.png)
+![atom-jekyll-error]({{site.url}}/images/2016/08/22/atom-jekyll-error.png)
