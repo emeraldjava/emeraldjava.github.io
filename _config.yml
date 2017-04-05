@@ -15,7 +15,7 @@ description              : "Running, IT and other random postings."
 #url                      : https://emeraldjava.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "emeraldjava/emeraldjava.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/teaser-default.png" # path of fallback teaser image, e.g. 
+teaser                   : "/images/teaser-default.png" # path of fallback teaser image, e.g.
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Paul O'Connell"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g.
-  bio              : "Java developer, marathon runner and involved with the BHAA."
+  bio              : "Java, Spring, DevOps experimentor, chasing a marathon runner while home brewing."
   location         : "Dublin, Ireland"
+  uri              : #"emeraldjava.github.com"
   email            : #"paul.t.oconnell@gmail.com"
-  uri              : "emeraldjava.github.com"
   bitbucket        :
   codepen          :
   dribbble         :
