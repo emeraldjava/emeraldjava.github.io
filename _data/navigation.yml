@@ -1,7 +1,11 @@
 # main links
 main:
-  #- title: CV
-  #  url: /cv/index.html
+
+  - title: "About"
+    url: "/about/"
+
+  - title: "CV"
+    url: "/cv/"
 
   #- title: bhaa.ie
   #  url: http://bhaa.ie
