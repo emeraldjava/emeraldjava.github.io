@@ -2,6 +2,10 @@
 
 title: "wed-feb-24"
 date: "2016-02-24 08:49:59 +0000"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 # Naked Objects

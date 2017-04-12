@@ -1,8 +1,13 @@
 ---
 layout: single
 title: St Peter's IPA
-category: homebrew
+category:
+  - homebrew
 date: 2016-08-14 18:32:56
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 St Peter's IPA

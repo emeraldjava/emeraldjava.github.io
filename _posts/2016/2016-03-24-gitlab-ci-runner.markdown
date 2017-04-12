@@ -2,6 +2,10 @@
 
 title: "gitlab ci runner"
 date: "2016-03-24 14:02:43 +0000"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 I got gitlab running again on my local dev machine and installed the 'gitlab-ci-multi-runner' so I can investigate the build runner options.

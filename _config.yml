@@ -11,7 +11,7 @@ locale                   : "en"
 title                    : "emeraldjava"
 title_separator          : "-"
 name                     : "emeraldjava"
-description              : "Running, IT and other random postings."
+description              : "Java, Spring, DevOps experimentor, chasing a marathon while home brewing."
 #url                      : https://emeraldjava.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "emeraldjava/emeraldjava.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paul O'Connell"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g.
-  bio              : "Java, Spring, DevOps experimentor, chasing a marathon runner while home brewing."
+  bio              : "Java, Spring, DevOps experimentor, chasing a marathon while home brewing."
   location         : "Dublin, Ireland"
   uri              : #"emeraldjava.github.com"
   email            : #"paul.t.oconnell@gmail.com"

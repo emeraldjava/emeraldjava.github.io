@@ -2,6 +2,10 @@
 
 title: "ruddeck"
 date: "2016-04-13 11:50:20 +0100"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 https://github.com/Batix/rundeck-ansible-plugin

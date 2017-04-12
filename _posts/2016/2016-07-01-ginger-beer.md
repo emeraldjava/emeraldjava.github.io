@@ -1,8 +1,13 @@
 ---
 layout: single
 title: Ginger Beer
-category: homebrew
+category:
+  - homebrew
 date: 2016-07-01 12:00:00
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 Ginger Beer

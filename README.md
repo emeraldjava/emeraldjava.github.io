@@ -15,7 +15,8 @@ bundle exec jekyll serve
 bundle exec jekyll build --trace
 ```
 
-jekyll build --watchjekyll build --watch
+bundle exec jekyll build --watch
+jekyll build --watch
 
 
 http://localhost:4000/homebrew/2016/08/14/st-peters-ipa.html
