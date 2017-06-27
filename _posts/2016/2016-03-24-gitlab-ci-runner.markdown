@@ -2,6 +2,10 @@
 
 title: "gitlab ci runner"
 date: "2016-03-24 14:02:43 +0000"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 I got gitlab running again on my local dev machine and installed the 'gitlab-ci-multi-runner' so I can investigate the build runner options.
@@ -30,7 +34,7 @@ One item to note is that '/ci' must be appended to your gitlabs url
 A nice image
 
 <figure class="third">
-	<img src="http://emeraldjava.github.io/assets/images/2016/03/24/gitlab-ci-build-runner.png">
+	<img src="http://emeraldjava.github.io/images/2016/03/24/gitlab-ci-build-runner.png">
   <figcaption>Caption describing these three images.</figcaption>
 </figure>
 

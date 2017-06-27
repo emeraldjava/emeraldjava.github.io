@@ -2,9 +2,13 @@
 
 title: "synology"
 date: "2016-07-09 15:34:55 +0100"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 http://techanic.net/2014/04/12/configuring_ssh_and_scp_sftp_on_dsm_5.0_for_synology_diskstations.html
 
 
-![SSH Service]({{ site.url }}/assets/images/2016/synology/ssh-service.png)
+![SSH Service]({{ site.url }}/images/2016/synology/ssh-service.png)

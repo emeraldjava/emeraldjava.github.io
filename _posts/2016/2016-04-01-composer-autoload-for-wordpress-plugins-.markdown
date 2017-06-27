@@ -2,6 +2,10 @@
 
 title: "Using composer to generate an autoload file for my wordpress plugin"
 date: "2016-04-01 17:01:49 +0100"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 I've never liked how i was handling class loading in my BHAA wordpress plugins.

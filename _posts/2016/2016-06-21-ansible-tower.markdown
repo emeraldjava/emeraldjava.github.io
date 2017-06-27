@@ -1,3 +1,11 @@
+---
+title: "Ansible Tower"
+date: "2016-06-21 11:01:49 +0100"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
+---
 
 https://support.ansible.com/hc/en-us/requests/8840
 

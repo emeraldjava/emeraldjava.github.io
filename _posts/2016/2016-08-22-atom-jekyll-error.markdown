@@ -2,6 +2,10 @@
 
 title: "atom jekyll error - duplicate mapping key at line"
 date: "2016-08-22 22:38:02"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 Error when attempting to create a new jekyll post with atom 1.9.9
 
@@ -29,4 +33,4 @@ at FSReqWrap.oncomplete (fs.js:82:15)
 
 Screen shot
 
-![atom-jekyll-error]({{site.url}}/assets/images/2016/08/22/atom-jekyll-error.png)
+![atom-jekyll-error]({{site.url}}/images/2016/08/22/atom-jekyll-error.png)

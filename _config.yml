@@ -11,18 +11,17 @@ locale                   : "en"
 title                    : "emeraldjava"
 title_separator          : "-"
 name                     : "emeraldjava"
-description              : "Running, IT and other random postings."
-url                      : http://localhost:4000
-#url                     : http://emeraldjava.github.io/
+description              : "Java, Spring, DevOps experimentor, chasing a marathon while home brewing."
+#url                      : https://emeraldjava.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "emeraldjava/emeraldjava.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/images/teaser-default.png" # path of fallback teaser image, e.g.
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" #, "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "emeraldjava" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -49,7 +48,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-debug: true
+#debug: true
 
 # SEO Related
 google_site_verification :
@@ -82,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Paul O'Connell"
-  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g.
-  bio              : "Java developer, marathon runner and involved with the BHAA."
-  location         : "Somewhere"
-  email            : "paul.t.oconnell@gmail.com"
-  uri              : "emeraldjava.github.com"
+  avatar           : "/images/avatar.jpg" # path of avatar image, e.g.
+  bio              : "Java, Spring, DevOps experimentor, chasing a marathon while home brewing."
+  location         : "Dublin, Ireland"
+  uri              : #"emeraldjava.github.com"
+  email            : #"paul.t.oconnell@gmail.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -144,11 +143,13 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - /tags
   - /blog
+  - Gemfile.lock
+  - /_hide
 keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "md,markdown,mkdown,mkdn,mkd,markup"
+markdown_ext: "md,markdown,mkdown,mkdn,mkd"
 
 # Conversion
 markdown: kramdown
@@ -175,9 +176,32 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Outputting
-paginate: 5 # amount of posts to show
-paginate_path: "/page:num/"
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:categories/:title/
+paginate: 8 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Dublin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Pagination
+#pagination:
+#  enabled      : true
+#  debug        : true
+#  per_page     : 3
+#  #p?permalink    : '/page/:num/'
+#  permalink    : /:year/:month/:title.html
+#  title        : ':title - Page :num of :max'
+#  limit        : 0
+#  sort_field   : 'date'
+#  sort_reverse : true
+
+
+# Plugin: jekyll-archives
+#jekyll-archives:
+#  enabled:
+#    - tags
+#  layouts:
+#    tag: tag_index
+#  permalinks:
+#    tag: /tag/:name/
 
 # Plugins
 gems:
@@ -186,6 +210,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -194,7 +219,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-seo-tag
 
 # Archives
 #  Type
@@ -212,18 +237,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -240,16 +253,16 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: custom-posts
       author_profile: true
       read_time: true
-      comments: false
-      share: false
+      comments: true
+      share: true
       related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+#  - scope:
+#      path: ""
+#      type: pages
+#    values:
+#      layout: single
+#      author_profile: true

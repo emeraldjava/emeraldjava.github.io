@@ -11,15 +11,15 @@ My MAC OS version is 10.9.4 and the fireware on my Eircom Router is Version: 1.0
 
 My File Share settings are
 
-<img src="{{ site.url }}/assets/images/2014-08-02/file_share.png"/>
+<img src="{{ site.url }}/images/2014-08-02/file_share.png"/>
 
 And the Media Share settings are
 
-<img src="{{site.url}}/assets/images/2014-08-02/media_share.png"/>
+<img src="{{site.url}}/images/2014-08-02/media_share.png"/>
 
 I've used CMD & K to open the connect to server dialog
 
-<img src="{{site.url}}/assets/images/2014-08-02/connect_to_server.png"/>
+<img src="{{site.url}}/images/2014-08-02/connect_to_server.png"/>
 
 But still no joy
 

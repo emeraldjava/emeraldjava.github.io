@@ -1,7 +1,10 @@
 ---
-
 title: "elk-stash"
 date: "2016-02-04 14:38:02"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 Some notes on ELK Stack installation.
 

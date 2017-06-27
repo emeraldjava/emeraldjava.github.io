@@ -2,6 +2,10 @@
 
 title: "angularjs 2 tutorial - Can't bind to 'hero' since it isn't a known property of 'hero-detail'"
 date: "2016-08-28 12:10:02"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 Playing with the angular js tutorial here

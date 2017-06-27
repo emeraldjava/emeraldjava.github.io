@@ -2,6 +2,10 @@
 
 title: "ansible-permission-error-with-copy-command-using-with-items-on-a-dictionary"
 date: "2016-02-23 12:12:34 +0000"
+header:
+  overlay_image: https://unsplash.it/792/269/?random
+  ocerlay_filter: 0.75
+  teaser: https://unsplash.it/300/400/?random
 ---
 
 # [ansible-permission-error-with-copy-command-using-with-items-on-a-dictionary](http://stackoverflow.com/questions/35577184/ansible-permission-error-with-copy-command-using-with-items-on-a-dictionary)
