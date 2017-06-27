@@ -4,9 +4,9 @@ require "listen"
 
 def listen_ignore_paths(base, options)
   [
-      /_config\.ya?ml/,
-      /_site/,
-      /\.jekyll-metadata/
+    /_config\.ya?ml/,
+    /_site/,
+    /\.jekyll-metadata/
   ]
 end
 
@@ -33,25 +33,25 @@ end
 task :preview do
   base = Pathname.new('.').expand_path
   options = {
-      "source"        => base.join('test').to_s,
-      "destination"   => base.join('test/_site').to_s,
-      "force_polling" => false,
-      "serving"       => true,
-      "theme"         => "minimal-mistakes-jekyll"
+    "source"        => base.join('test').to_s,
+    "destination"   => base.join('test/_site').to_s,
+    "force_polling" => false,
+    "serving"       => true,
+    "theme"         => "minimal-mistakes-jekyll"
   }
 
   options = Jekyll.configuration(options)
 
   ENV["LISTEN_GEM_DEBUGGING"] = "1"
   listener = Listen.to(
-      base.join("_includes"),
-      base.join("_layouts"),
-      base.join("_sass"),
-      base.join("assets"),
-      options["source"],
-      :ignore => listen_ignore_paths(base, options),
-      :force_polling => options['force_polling'],
-      &(listen_handler(base, options))
+    base.join("_includes"),
+    base.join("_layouts"),
+    base.join("_sass"),
+    base.join("assets"),
+    options["source"],
+    :ignore => listen_ignore_paths(base, options),
+    :force_polling => options['force_polling'],
+    &(listen_handler(base, options))
   )
 
   begin
