@@ -8,6 +8,15 @@ codekit-config.json
 node_modules
 _asset_bundler_cache
 
+*.gem
+.bundle
+.jekyll-metadata
+.sass-cache
+_site
+example/_site
+Gemfile.lock
+npm-debug.log*
+
 .project
 
 cheatsheet.md
@@ -68,9 +77,7 @@ fabric.properties
 
 # End of https://www.gitignore.io/api/intellij
 /.jekyll-metadata
-<<<<<<< HEAD
 
 *.log
 =======
 /Gemfile.lock
->>>>>>> origin/master
