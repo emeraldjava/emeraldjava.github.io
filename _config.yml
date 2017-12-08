@@ -49,6 +49,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 #debug: true
+theme: minimal-mistakes-jekyll
 
 # SEO Related
 google_site_verification :
