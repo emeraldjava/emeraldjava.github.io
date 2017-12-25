@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Paul O'Connell"
+  name             : "emeraldjava"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g.
   bio              : "Java, Spring, DevOps experimentor, chasing a marathon while home brewing."
   location         : "Dublin, Ireland"
