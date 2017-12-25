@@ -48,7 +48,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-#debug: true
+debug: true
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -256,7 +256,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: custom-posts
+      layout: single
+      #layout: custom-posts
       author_profile: true
       read_time: true
       comments: true
