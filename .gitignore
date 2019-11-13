@@ -162,3 +162,4 @@ public
 .DS_Store
 /package-lock.json
 /hide/
+/.idea/
