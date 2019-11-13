@@ -1,9 +1,5 @@
 # emeraldjava.github.io
 
-https://github.com/20008/20008.github.io
+[![Build Status](https://github.com/emeraldjava/emeraldjava.github.io/workflows/build/badge.svg)](https://github.com/emeraldjava/emeraldjava.github.io)
 
-https://tntking65.github.io/
-
-https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
-
-- Drop the git credential.helper
+My site should be @ [https://emeraldjava.github.io/](http://emeraldjava.github.io/)
