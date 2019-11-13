@@ -12,7 +12,7 @@ module.exports = {
       linkedin: "https://ie.linkedin.com/in/paultoconnell/",
       github: "https://github.com/emeraldjava",
       stackoverflow: "https://stackoverflow.com/users/55794/emeraldjava",
-      freecodecamp: "",
+      freecodecamp: "https://www.freecodecamp.org/",
       twitter: "https://twitter.com/emeraldjava",
     },
   },
