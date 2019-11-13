@@ -160,3 +160,4 @@ public
 
 # Mac files
 .DS_Store
+/package-lock.json
