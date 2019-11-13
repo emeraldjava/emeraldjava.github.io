@@ -1,6 +1,6 @@
 ---
 title: 'First Gatsby Post'
-tags: ["gatsby"]
+tags: ["javascript"]
 published: true
 date: '2019-11-13'
 ---
