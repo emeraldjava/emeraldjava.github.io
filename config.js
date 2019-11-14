@@ -3,11 +3,11 @@
 module.exports = {
   url: "https://emeraldjava.github.io",
   title: "emeraldjava",
-  tagline: "Java, Spring, DevOps experimentor, chasing a marathon and cycling while home brewing and gardening with family.",
-  copyright: "© 2019 willjw3, All rights reserved",
+  tagline: "Java, Spring, DevOps experimenter, chasing a marathon and cycling while home brewing and gardening with family.",
+  copyright: "© 2019 emeraldjava, All rights reserved",
   author: {
     name: "emeraldjava",
-    bio: "Java, Spring, DevOps experimentor, chasing a marathon and cycling while home brewing and gardening with family.",
+    bio: "Java, Spring, DevOps experimenter chasing a marathon and cycling while home brewing and gardening with family.",
     contacts: {
       linkedin: "https://ie.linkedin.com/in/paultoconnell/",
       github: "https://github.com/emeraldjava",
@@ -17,13 +17,6 @@ module.exports = {
     },
   },
   labels: [
-    {
-      tag: "react",
-      tech: "React",
-      name: "DiReact",
-      size: 20,
-      color: "deepskyblue",
-    },
     {
       tag: "nodejs",
       tech: "Node.js",

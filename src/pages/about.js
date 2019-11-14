@@ -35,7 +35,6 @@ const AboutPage = (props) => {
                             </span>
                             <p className="d-inline-block ml-3 w-75 align-top">Tech tags designed for web developers</p>
                             <div className="ml-5">
-                                <TechTag tag="react" tech="React" name="DiReact" size={20} color="deepskyblue" />
                                 <TechTag tag="nodejs" tech="Node.js" name="DiNodejsSmall" size={20} color="lightgreen" />
                                 <TechTag tag="html" tech="HTML" name="FaHtml5" size={20} color="darkorange" />
                                 <TechTag tag="css" tech="CSS" name="DiCss3Full" size={20} color="teal" />
