@@ -54,7 +54,7 @@ const Layout = ({ children }) => {
               <p className="d-inline">© {new Date().getFullYear()} <a className="text-info" href="https://emeraldjava.github.io/">emeraldjava</a>, All Rights Reserved.</p>
               <p className="mt-5 text-muted d-inline"><i> Built with
                             {` `}
-                <a className="text-info" href="https://www.gatsbyjs.org">Gatsby</a> with <a className="text-info" href="https://github.com/willjw3/gatsby-starter-developer-diary">gatsby-starter-developer-diary</a>.</i>
+                <a className="text-info" href="https://www.gatsbyjs.org">Gatsby</a> using <a className="text-info" href="https://github.com/willjw3/gatsby-starter-developer-diary">gatsby-starter-developer-diary</a>.</i>
               </p>
             </footer>
           </div>
