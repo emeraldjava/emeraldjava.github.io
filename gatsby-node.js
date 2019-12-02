@@ -5,12 +5,33 @@ const _ = require("lodash")
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {
-    const slug = createFilePath({ node, getNode, basePath: `pages` })
-    createNodeField({
-      node,
-      name: `slug`,
-      value: slug,
-    })
+      const { categories } = node.frontmatter
+
+      const filename = createFilePath({ node, getNode, basePath: `pages` })
+      // get the date and title from the file name
+      const [, date, title] = filename.match(
+          /^\/([\d]{4}-[\d]{2}-[\d]{2})-{1}(.+)\/$/
+      )
+
+      // create a new slug concatenating everything
+      const categorySlug = categories.join('/')
+      const dateSlug = date.replace(/-/g, '/')
+
+      const slug = `/${categorySlug}/${dateSlug}/${title}`
+
+      createNodeField({ node, name: `slug`, value: slug })
+
+      // save the date for later use
+      createNodeField({ node, name: `date`, value: date })
+
+
+
+    // const slug = createFilePath({ node, getNode, basePath: `pages` })
+    // createNodeField({
+    //   node,
+    //   name: `slug`,
+    //   value: slug,
+    // })
   }
 }
 
