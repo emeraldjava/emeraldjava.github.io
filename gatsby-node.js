@@ -2,6 +2,7 @@ const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const _ = require("lodash")
 
+// https://www.gatsbyjs.org/tutorial/part-seven/
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {
@@ -14,24 +15,15 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       )
 
       // create a new slug concatenating everything
-      const categorySlug = categories.join('/')
+      const categorySlug = 'cat';//categories.join('/')
       const dateSlug = date.replace(/-/g, '/')
 
       const slug = `/${categorySlug}/${dateSlug}/${title}`
 
-      createNodeField({ node, name: `slug`, value: slug })
-
+      createNodeField({ node, name: `slug`, value: filename })
       // save the date for later use
-      createNodeField({ node, name: `date`, value: date })
-
-
-
-    // const slug = createFilePath({ node, getNode, basePath: `pages` })
-    // createNodeField({
-    //   node,
-    //   name: `slug`,
-    //   value: slug,
-    // })
+      //const d = `2019-12-02`;//node.formatter.getValueFromName('date');
+      //createNodeField({ node, name: `date`, value: d })
   }
 }
 
@@ -43,7 +35,9 @@ exports.createPages = ({ graphql, actions }) => {
         edges {
           node {
             frontmatter {
-              tags
+              tags,
+              date,
+              title
             }
             fields {
               slug
