@@ -24,8 +24,6 @@ const TechTags = (props) => {
         return category[0]
     })
 
-
-
     const getTechTags = (tags) => {
         const techTags = []
         tags.forEach((tag, i) => {
@@ -38,7 +36,6 @@ const TechTags = (props) => {
         return techTags
     }
 
-
     return (
         <>
             <h4>Tech Topics</h4>
@@ -48,6 +45,5 @@ const TechTags = (props) => {
         </>
     )
 }
-
 
 export default TechTags

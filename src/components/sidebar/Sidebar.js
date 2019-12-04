@@ -6,7 +6,6 @@ import "./sidebar.css"
 import SocialLinks from "./SocialLinks"
 import TechTags from "./TechTags"
 
-
 const Sidebar = () => {
     return (
         <StaticQuery

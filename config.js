@@ -18,6 +18,20 @@ module.exports = {
   },
   labels: [
     {
+      tag: "run",
+      tech: "Run",
+      name: "FaRunning",
+      size: 20,
+      color: "red",
+    },
+    {
+      tag: "cycle",
+      tech: "Cycle",
+      name: "FaBicycle",
+      size: 20,
+      color: "blue",
+    },
+    {
       tag: "nodejs",
       tech: "Node.js",
       name: "DiNodejsSmall",
@@ -46,9 +60,9 @@ module.exports = {
       color: "teal",
     },
     {
-      tag: "python",
-      tech: "Python",
-      name: "DiPython",
+      tag: "beer",
+      tech: "Beer",
+      name: "FaBeer",
       size: 20,
       color: "deepskyblue",
     },
