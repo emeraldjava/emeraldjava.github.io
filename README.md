@@ -9,3 +9,5 @@ My site should be @ [https://emeraldjava.github.io/](http://emeraldjava.github.i
 Use the -H to set the hostname IP address for remote access
 
     gatsby develop -H XXX.XX.X.XXX
+
+    gatsby develop -H 10.157.149.208
