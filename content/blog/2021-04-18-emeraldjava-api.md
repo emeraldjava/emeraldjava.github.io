@@ -15,6 +15,10 @@ I'd to update this repo first since the deploy action failed with this error
     Retrying in 20.243 seconds
     Error: Unable to resolve action `JamesIves/github-pages-deploy-action@master`, unable to find version `master`
 
+See
+- https://github.com/emeraldjava/emeraldjava.github.io/runs/2374008241?check_suite_focus=true
+- https://github.com/JamesIves/github-pages-deploy-action
+
 
 # sdkman
 
