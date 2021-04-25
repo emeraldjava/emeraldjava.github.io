@@ -14,12 +14,31 @@ Calling this API servive with my account details
 returns a neat embedded image.  
 Thanks Damien  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=emeraldjava&show_icons=true&count_private=true"></img>
+| ![Alt name of image](https://github-readme-stats.vercel.app/api?username=emeraldjava&show_icons=true&count_private=true) |
+| ------ |
 
+To ensure the image gets space, we add it to a table. 
+
+TODO - create a gatsby plugin which takes the url and embeds the image.
+
+With crappy dot line spacing below.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=emeraldjava&show_icons=true&count_private=true"/>
+
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+.  
 
 ---
 
-## Stackoverflow Flair
+## StackOverFlow Flair
 
 See https://stackoverflow.com/help/flair  
 
@@ -30,10 +49,3 @@ See https://stackoverflow.com/help/flair
 ## Horizontal Rules
 
 See https://www.markdownguide.org/basic-syntax/#horizontal-rules
-
-***
-
----
-
-___
-
