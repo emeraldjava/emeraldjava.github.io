@@ -17,3 +17,9 @@ See https://github.com/AlanLyttonJones/Age-Grade-Tables
 See carbon.now.sh
 
 blob:https://carbon.now.sh/72027f28-1ae5-48c5-ba73-cb130ceca298
+
+## Upgrading Gatsby
+
+https://github.com/gatsbyjs/gatsby-starter-default
+
+    npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem gatsby-transformer-sharp
