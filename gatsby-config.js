@@ -24,8 +24,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
         name: `blog`,
+        path: `${__dirname}/content/blog`,
       },
     },
     {
@@ -40,26 +40,20 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-prismjs`,
+            resolve: `gatsby-remark-images`,
             options: {
-              classPrefix: "language-",
-              inlineCodeMarker: null,
-              aliases: {},
-              showLineNumbers: false,
-              noInlineHighlight: false,
+              maxWidth: 590,
+            },
+          },
+          {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              username: "emeraldjava",
+              gistDefaultCssInclude: true,
             }
-          }, `gatsby-remark-responsive-iframe`,
+          }
         ],
       },
-    },
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [
-          `Raleway`,
-          `source sans pro\:300,400,400i,700` // you can also specify font weights and styles
-        ]
-      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -76,17 +70,11 @@ module.exports = {
       }
     },
     {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: ["@weknow/gatsby-remark-twitter"]
-      }
-    },
-    {
       resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId: "UA-156016480-1",
         head: true,
       }
-    }
+    },
   ],
 }

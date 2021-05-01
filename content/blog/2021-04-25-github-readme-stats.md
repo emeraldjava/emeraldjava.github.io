@@ -49,3 +49,13 @@ See https://stackoverflow.com/help/flair
 ## Horizontal Rules
 
 See https://www.markdownguide.org/basic-syntax/#horizontal-rules
+
+##
+
+<a href="https://github.com/emeraldjava/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emeraldjava&show_icons=true&theme=dark&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/emeraldjava/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeraldjava&langs_count=4&theme=dark&hide_border=true" />
+</a>
