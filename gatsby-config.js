@@ -39,13 +39,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-embed-gist",
-            options: {
-              username: "emeraldjava",
-              gistCssPreload: true,
-            }
-          },
-          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
@@ -56,6 +49,12 @@ module.exports = {
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
+          },
+          {
+            resolve: `gatsby-remark-embed-gist`,
+            options: {
+              username: `emeraldjava`
+            }
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
@@ -77,7 +76,6 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       }
     },
-    `gatsby-plugin-react-helmet`,
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
