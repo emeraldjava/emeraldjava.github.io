@@ -23,30 +23,17 @@ TODO - create a gatsby plugin which takes the url and embeds the image.
 
 With crappy dot line spacing below.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=emeraldjava&show_icons=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emeraldjava&show_icons=true&count_private=true"> </img>
 
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-
----
-
-## StackOverFlow Flair
+# StackOverFlow Flair
 
 See https://stackoverflow.com/help/flair  
 
-<a href="https://stackexchange.com/users/22565"><img src="https://stackexchange.com/users/flair/22565.png" width="208" height="58" alt="profile for emeraldjava on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for emeraldjava on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/22565"><img src="https://stackexchange.com/users/flair/22565.png" width="208" height="58" alt="profile for emeraldjava on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for emeraldjava on Stack Exchange, a network of free, community-driven Q&amp;A sites"/></a>
 
 ***
 
-## Horizontal Rules
+# Horizontal Rules
 
 See https://www.markdownguide.org/basic-syntax/#horizontal-rules
 
