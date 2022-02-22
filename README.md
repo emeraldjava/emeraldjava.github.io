@@ -14,4 +14,6 @@ Use the -H to set the hostname IP address for remote access
 
 http://localhost:8000/___graphql
 
-## 2022.02.22
+## gatsby-theme-blog-core
+
+- https://github.com/gatsbyjs/themes/tree/master/packages/gatsby-theme-blog-core
