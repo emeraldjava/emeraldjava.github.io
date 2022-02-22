@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemeraldjava_github_io=self.webpackChunkemeraldjava_github_io||[]).push([[883],{429:function(e,t,l){l.r(t);var n=l(7294),r=l(1139),u=l(262);t.default=function(){return n.createElement(r.Z,null,n.createElement(u.Z,{title:"404: Not found"}),n.createElement("h1",null,"Page Not Found"),n.createElement("p",null,n.createElement("i",null,"Just lightin' out for the territories, huh? Brother, I been there.")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-f65c74ff41c144bb198c.js.map

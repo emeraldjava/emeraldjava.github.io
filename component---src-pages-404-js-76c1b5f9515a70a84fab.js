@@ -1,2 +1,0 @@
-(self.webpackChunkemeraldjava_github_io=self.webpackChunkemeraldjava_github_io||[]).push([[883],{9616:function(e,t,l){"use strict";l.r(t);var n=l(7294),r=l(1728),u=l(3751);t.default=function(){return n.createElement(r.Z,null,n.createElement(u.Z,{title:"404: Not found"}),n.createElement("h1",null,"Page Not Found"),n.createElement("p",null,n.createElement("i",null,"Just lightin' out for the territories, huh? Brother, I been there.")))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-76c1b5f9515a70a84fab.js.map
