@@ -11,3 +11,7 @@ Use the -H to set the hostname IP address for remote access
     gatsby develop -H XXX.XX.X.XXX
 
     gatsby develop -H 10.157.149.208
+
+http://localhost:8000/___graphql
+
+## 2022.02.22
