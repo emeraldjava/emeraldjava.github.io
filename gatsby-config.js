@@ -19,6 +19,7 @@ module.exports = {
     labels: siteConfig.labels,
   },
   plugins: [
+    `gatsby-plugin-twitter`,    
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
