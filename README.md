@@ -17,3 +17,9 @@ http://localhost:8000/___graphql
 ## gatsby-theme-blog-core
 
 - https://github.com/gatsbyjs/themes/tree/master/packages/gatsby-theme-blog-core
+
+see
+
+- https://github.com/vchrombie/vchrombie.github.io
+- https://github.com/vchrombie/blog
+- 

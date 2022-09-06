@@ -1,8 +1,9 @@
 ---
-title:  "Node JS Meetup May 2014"
-date:   2014-05-29 18:55:30
+title: "Node JS Meetup May 2014"
+date: "2014-05-29"
 layout: post
-tags: ["nodejs"]
+published: true
+tags: [nodejs]
 ---
 
 Notes from the [www.nodejsdublin.com](http://www.nodejsdublin.com/) meeting in [https://www.engineyard.com/](Engine Yard), Barrow St, Dublin.

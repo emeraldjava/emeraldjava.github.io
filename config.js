@@ -4,7 +4,7 @@ module.exports = {
   url: "https://emeraldjava.github.io",
   title: "emeraldjava",
   tagline: "Java, Spring, DevOps experimenter, chasing a marathon and cycling while home brewing and gardening with family.",
-  copyright: "© 2019 emeraldjava, All rights reserved",
+  copyright: "© 2022 emeraldjava, All rights reserved",
   author: {
     name: "emeraldjava",
     bio: "Java, Spring, DevOps experimenter chasing a marathon and cycling while home brewing and gardening with family.",

@@ -103,7 +103,9 @@ module.exports = {
       resolve: `gatsby-theme-blog-core`,
       options: {
         // basePath defaults to `/`
-        basePath: `/blog`,
+        basePath: `/`,
+        blogPath: '/blog',
+        tagsPath: '/tags'
       },
     }
   ],
