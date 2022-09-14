@@ -1,1 +1,0 @@
-{"DEV":{"connectString":"localhost/orclpdb","users":[{"user":"hr","password":"welcome"}]},"TEST":{"connectString":"localhost/orclpdb","users":[{"user":"hr","password":"welcome"}]},"UAT":{"connectString":"localhost/orclpdb","users":[{"user":"hr","password":"welcome"}]}}
