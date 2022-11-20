@@ -12,10 +12,11 @@ tags: [synology]
 
 - [Overview](#overview)
 - [Test Urls](#test-urls)
+- [Router Config](#router-config)
 - [Synology Config](#synology-config)
-  - [external-access-ddns-settings](#external-access-ddns-settings)
-  - [application-portal-reverse-proxy-settings](#application-portal-reverse-proxy-settings)
-  - [security-certs-settings](#security-certs-settings)
+  - [External Access \> DDNS Settings](#external-access--ddns-settings)
+  - [Application Portal \> Reverse Proxy](#application-portal--reverse-proxy)
+  - [Security \> Certificates](#security--certificates)
 
 <!-- /code_chunk_output -->
 
@@ -31,31 +32,37 @@ Reference
 
 The hope is that these URL will return a valid response
 
-    [emeraldjava.synology.me](https://emeraldjava.synology.me)
-    [home.emeraldjava.synology.me](https://home.emeraldjava.synology.me)
+[https://emeraldjava.synology.me](https://emeraldjava.synology.me)
+[https://home.emeraldjava.synology.me](https://home.emeraldjava.synology.me)
+
+# Router Config
+
+My home router has the following Port Forwarding rules which send all requests to the Synology IP. Ports 443 and 80 should be open. 
+
+![router-port-forwarding](2022-11-20/router-port-forwarding.png)
+
+I have Plex running via Port 32400 and it's remotely accessible.
 
 # Synology Config
 
-This section outlines the specific synology settings that have to align.
+This section outlines the specific synology DS-1512 settings that have to align.
 
-## external-access-ddns-settings
+## External Access > DDNS Settings
 
 This maps the 'domain' to the dynamic IP of my local synology server.
 
 ![external-access-ddns-settings](2022-11-20/external-access-ddns-settings.png)
 
-## application-portal-reverse-proxy-settings
+## Application Portal > Reverse Proxy
 
 Setup a reverse proxy which listens for the specific 'domain' and maps those requests to the process on my synology box.
 
 ![application-portal-reverse-proxy-settings](./2022-11-20/application-portal-reverse-proxy-settings.png)
 
-## security-certs-settings
+## Security > Certificates
 
 The config of the SSL cert for each 'domain'.
 
 ![security-certs-settings](./2022-11-20/security-certs-settings.png)
 
-
-
-
+The question is which part or parts of the config are incorrect?
