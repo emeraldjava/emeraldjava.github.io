@@ -6,7 +6,7 @@
   "author": "emeraldjava <https://github.com/emeraldjava>",
   "dependencies": {
     "bootstrap": "^5.2.0",
-    "gatsby": "^4.22.0",
+    "gatsby": "^5.1.0",
     "gatsby-plugin-feed": "^4.22.0",
     "gatsby-plugin-gatsby-cloud": "^4.22.0",
     "gatsby-plugin-google-gtag": "^4.22.0",
