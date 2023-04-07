@@ -1,11 +1,12 @@
 ---
 title: 'Jekyll To Gatstby'
-tags: []
+tags: ['jekyll','gatsby']
 published: true
 date: '2020-06-20'
+summary: 'Jekyll To Gatstby'
 ---
 
-# Jekyll
+# Jekyll To Gatstby
 
 Using a custom folder structure for gatsby
 
