@@ -46,7 +46,7 @@ atlassian-ide-plugin.xml
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
-crashlytics.properties
+crashlytics.proper3ties
 crashlytics-build.properties
 fabric.properties
 ### Ruby template
@@ -165,3 +165,9 @@ typings/
 /.idea/
 /public/
 gatsby-starter-blog/
+
+# hugo excludes
+.hugo_build.lock
+go.sum
+themes/*
+public/*

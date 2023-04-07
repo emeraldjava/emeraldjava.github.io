@@ -25,3 +25,12 @@ see
 - 
 
 A new machine.gh
+
+# Hugo
+
+## github-style
+
+- https://themes.gohugo.io/themes/github-style/
+- https://github.com/gitalk/gitalk
+
+    git submodule add https://github.com/MeiK2333/github-style.git themes/github-style

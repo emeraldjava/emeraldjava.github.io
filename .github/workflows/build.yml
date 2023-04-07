@@ -1,26 +1,39 @@
-name: build
+name: GitHub Pages
 
 on:
   push:
     branches:
-      - gatsby
+      - main  # Set a branch to deploy
+  pull_request:
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.4.0
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
 
-      - name: Install and Build
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.110.0'
+          # extended: true
+
+      - name: Build
         run: |
-          npm install
-          npm run build
+          hugo mod get -u
+          hugo --minify --baseURL "https://emeraldjava.github.io/"
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          branch: master # The branch the action should deploy to.
-          folder: public # The folder the action should deploy.
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
