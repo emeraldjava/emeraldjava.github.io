@@ -2,7 +2,7 @@ baseURL = 'https://emeraldjava.github.io/'
 languageCode = 'en-us'
 title = 'Posts from emeraldjava'
 theme = "github-style"
-googleAnalytics = "G-V66JPM85FQ"
+googleAnalytics = "UA-156016480-1"
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
