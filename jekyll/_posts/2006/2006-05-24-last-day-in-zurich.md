@@ -1,8 +1,0 @@
----
-title: Last Day In Zurich
-
-category: blogger
-tags: [2006]
-# Pulled from Blogger. Last updated there on: Wed May 24 11:56:00 IST 2006
----
-<script language="javascript" type="text/javascript"> <br /><!--  <br />window.onload=create_map;    <br />function create_map() <br />{ <br />  if(document.getElementById("google_map") != null) <br />    map_details();} <br />// --> <br /></script><br /><script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAZFzClZgpuGZ7n2OVWWjyPxTYrnCBaaQ9X3WZSBjs7pEgLNseJRTvhjKc6fcNBIRYL64guKY-gGIwhQ" type="text/javascript"></script><script type="text/javascript"> function map_details() { var map = new GMap2(document.getElementById("google_map")); map.addControl(new GSmallMapControl()); map.addControl(new GMapTypeControl()); map.setCenter(new GLatLng(50.3667,2.5500),3); var polyline = new GPolyline([new GLatLng(47.3667,8.5500),new GLatLng(53.2158,-6.6669)],"#ff0000",5);  map.addOverlay(polyline); }</script><br /><br /><!--<br /><div id="google_map" style="width: 400px; height: 400px;"></div><br />--><br /><br />Today is my last day in zurich. Bit tried after all the messing thats associated with moving out of an apartment here. <br /><br />Here is an overview of my trip plan for tomorrow from <a target="new" href="http://paultoconnell.freewebspace.com/zur_to_naas.html">Zurich to Naas</a> using the Google Map API, hopefully my config skills for this service will improve with time.<br /><br /><span style="font-weight:bold;">Google Map API</span><br />It seems initially that this blog site will not allow users to embed google's or there own script elements in the blog pages, so i've had host the google map pages on a seperate site, and will just link them from here. There has to be a neater solution.

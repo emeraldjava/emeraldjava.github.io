@@ -1,7 +1,0 @@
----
-title: Flot - with x-axis ticks
-
-category: blogger
-# Pulled from Blogger. Last updated there on: Sun Jan 10 13:27:00 GMT 2010
----
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_UjH7scA_Bek/S0nVybPqQ9I/AAAAAAAABeE/ixk2D9BKJVs/s1600-h/mountain-valley.PNG"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 206px;" src="http://3.bp.blogspot.com/_UjH7scA_Bek/S0nVybPqQ9I/AAAAAAAABeE/ixk2D9BKJVs/s400/mountain-valley.PNG" border="0" alt=""id="BLOGGER_PHOTO_ID_5425102288428090322" /></a><br /><div id="placeholder" style="width:600px;height:300px;"></div> <br /><script id="source" language="javascript" type="text/javascript"><br />$(function () {<br /><br />var d1 = [<br />[200952,112],[200951,102],[200950,97],[200949,93],[200948,41],[200947,10],[200946,0]];<br /><br />var d2 = [<br />[200952,31],[200951,31],[200950,25],[200949,23],[200948,12],[200947,0],[200946,0]];<br /><br />$.plot($("#placeholder"),<br />   [{data:d1,lines:{show: true},<br />     points:{show: true},label:"Mountain"},<br />    {data:d2,lines:{show: true},points:{show: true},label:"Valley"}],<br />    {xaxis: {<br />  ticks: [[200952,'52'],[200951,'51'],[200950,'50'],[200949,'49'],[200948,'48'],[200947,'47'],[200946,'46']],<br />  tickSize:1, tickDecimals:1 }}<br />);<br /><br />});<br /></script>

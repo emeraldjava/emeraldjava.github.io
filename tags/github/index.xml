@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>github on emeraldjava</title><link>https://emeraldjava.github.io/tags/github/</link><description>Recent content in github on emeraldjava</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://emeraldjava.github.io/tags/github/index.xml" rel="self" type="application/rss+xml"/><item><title>Github Readme Stats</title><link>https://emeraldjava.github.io/post/2021-04-25-github-readme-stats/</link><pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate><guid>https://emeraldjava.github.io/post/2021-04-25-github-readme-stats/</guid><description>I was looking for a guide to configuring spring boot with spring batch admin which i found but then spotted a nice GitHub summary on damienbeaufils home page.
+Calling this API servive with my account details
+https://github-readme-stats.vercel.app/api?username=emeraldjava&amp;amp;show_icons=true&amp;amp;count_private=true returns a neat embedded image.
+Thanks Damien
+To ensure the image gets space, we add it to a table.
+TODO - create a gatsby plugin which takes the url and embeds the image.</description></item></channel></rss>
