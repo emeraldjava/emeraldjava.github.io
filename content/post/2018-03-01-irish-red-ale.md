@@ -1,7 +1,8 @@
 ---
 title: "Irish Red Ale"
-tags: ["beer"]
-published: true
+tags: []
+draft: true
+published: false
 date: '2018-03-01'
 ---
 
