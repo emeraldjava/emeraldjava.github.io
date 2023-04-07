@@ -27,8 +27,7 @@ jobs:
 
       - name: Build
         run: |
-          hugo mod get -u
-          hugo --minify --baseURL "https://emeraldjava.github.io/"
+          env HUGO_ENV="production" hugo --minify --baseURL "https://emeraldjava.github.io/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
