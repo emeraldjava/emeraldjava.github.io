@@ -6,10 +6,6 @@ published: true
 tags: [synology]
 ---
 
-18443
-
-
-
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
@@ -27,6 +23,8 @@ tags: [synology]
 # Overview
 
 The following outline the steps i've taken to try and configure remote access to my synology home assistent instance.
+
+<!--more-->
 
 Reference
 - https://www.protoncek.com/2021/04/17/synology-reverse-proxy/

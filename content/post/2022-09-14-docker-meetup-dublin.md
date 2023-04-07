@@ -4,6 +4,7 @@ date: "2022-09-14T00:00:00Z"
 layout: post
 published: true
 tags: [docker]
+summary: "Docker Extensions"
 ---
 
 # Docker Extensions
