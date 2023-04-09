@@ -1,5 +1,5 @@
 ---
-title: Wednesday 31th May
+title: Wednesday 31th May 2006
 date: 2006-05-31
 category: blogger
 tags: [cycle,oz2006]

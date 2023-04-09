@@ -1,5 +1,5 @@
 ---
-title: Thursday 1st June
+title: Thursday 1st June 2006
 date: 2006-06-01
 category: blogger
 tags: [cycle,oz2006]
