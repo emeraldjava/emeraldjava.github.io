@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>synology on Posts from emeraldjava</title><link>https://emeraldjava.github.io/tags/synology/</link><description>Recent content in synology on Posts from emeraldjava</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://emeraldjava.github.io/tags/synology/index.xml" rel="self" type="application/rss+xml"/><item><title>Synology and Remote Home Assistent</title><link>https://emeraldjava.github.io/post/2022-11-20-synology-home-assistent/</link><pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate><guid>https://emeraldjava.github.io/post/2022-11-20-synology-home-assistent/</guid><description>&lt;!-- raw HTML omitted -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>synology on Posts from emeraldjava</title><link>https://emeraldjava.github.io/tags/synology/</link><description>Recent content in synology on Posts from emeraldjava</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://emeraldjava.github.io/tags/synology/index.xml" rel="self" type="application/rss+xml"/><item><title>Synology and Remote Home Assistent</title><link>https://emeraldjava.github.io/post/2022/2022-11-20-synology-home-assistent/</link><pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate><guid>https://emeraldjava.github.io/post/2022/2022-11-20-synology-home-assistent/</guid><description>&lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;ul>
 &lt;li>&lt;a href="#overview">Overview&lt;/a>&lt;/li>
@@ -14,4 +14,20 @@
 &lt;/ul>
 &lt;!-- raw HTML omitted -->
 &lt;h1 id="overview">Overview&lt;/h1>
-&lt;p>The following outline the steps i&amp;rsquo;ve taken to try and configure remote access to my synology home assistent instance.&lt;/p></description></item></channel></rss>
+&lt;p>The following outline the steps i&amp;rsquo;ve taken to try and configure remote access to my synology home assistent instance.&lt;/p></description></item><item><title>Synology SSH Key</title><link>https://emeraldjava.github.io/post/2017/2017-01-28-synology-ssh-key/</link><pubDate>Sat, 28 Jan 2017 18:34:18 +0000</pubDate><guid>https://emeraldjava.github.io/post/2017/2017-01-28-synology-ssh-key/</guid><description>Setting up a SSH key for synology
+Router - port forward the SSH port
+https://www.chainsawonatireswing.com/2012/01/15/ssh-into-your-synology-diskstation-with-ssh-keys//?from=@
+http://superuser.com/questions/736055/ssh-with-no-password-passwordless-on-synology-dsm-5-as-other-non-root-user
+https://www.synology.com/en-global/knowledgebase/DSM/tutorial/General/How_to_login_to_DSM_with_root_permission_via_SSH_Telnet
+http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id
+ssh-copy-id -i ~/.ssh/id_dsa.pub &amp;#34;user@host -p 6842&amp;#34; From http://askubuntu.com/questions/224190/how-can-i-make-ssh-copy-id-use-a-port-other-than-22
+docker stuff
+http://www.jinkit.com/docker-on-synology/ https://www.campalus.com/enable-remote-tcp-connections-to-docker-host-running-ubuntu-15-04/
+SSL Certs
+https://stefandingemanse.nl/how-to-use-lets-encrypt-ssl-certificate-on-synology-dsm/
+https://forums.plex.tv/discussion/200002/add-custom-ssl-certs-now-available-for-everyone-how-to
+openssl pkcs12 -export -out archive.pfx -inkey privkey.pem -in cert.pem -certfile chain.pem openssl pkcs12 -export -out emeraldjava.noip.me.pfx -inkey privkey.pem -in cert.pem -certfile chain.pem -name &amp;ldquo;emeraldjava.noip.me&amp;rdquo;
+/volume1/homes/admin/.ssh/archive.pfx ds1512 https://emeraldjava.noip.me:32400
+http://wesleysinstructions.weebly.com/
+https://community.letsencrypt.org/t/ssl-not-working-after-updating-letsencrypt-cert/18799/7
+https://emeraldjava.noip.me:32400/ Unable to communicate securely with peer: requested domain name does not match the server’s certificate.</description></item></channel></rss>

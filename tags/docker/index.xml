@@ -4,4 +4,4 @@ php/fpm on docker
 microservices vs container
 use nginx unit to run mutliple processes within a single docker container
 config
-listeners routes applications</description></item><item><title>Dublin Docker Meetup</title><link>https://emeraldjava.github.io/post/2022-09-14-docker-meetup-dublin/</link><pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate><guid>https://emeraldjava.github.io/post/2022-09-14-docker-meetup-dublin/</guid><description>Docker Extensions</description></item></channel></rss>
+listeners routes applications</description></item><item><title>Dublin Docker Meetup</title><link>https://emeraldjava.github.io/post/2022/2022-09-14-docker-meetup-dublin/</link><pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate><guid>https://emeraldjava.github.io/post/2022/2022-09-14-docker-meetup-dublin/</guid><description>Docker Extensions</description></item></channel></rss>
