@@ -41,7 +41,7 @@ The hope is that these URL will return a valid response
 
 My home router has the following Port Forwarding rules which send all requests to the Synology IP. Ports 443 and 80 should be open. 
 
-![router-port-forwarding](2022-11-20/router-port-forwarding.png)
+![router-port-forwarding](./11/20/router-port-forwarding.png)
 
 I have Plex running via Port 32400 and it's remotely accessible.
 
@@ -53,7 +53,7 @@ This section outlines the specific synology DS-1512 settings that have to align.
 
 This maps the 'domain' to the dynamic IP of my local synology server.
 
-![external-access-ddns-settings](2022-11-20/external-access-ddns-settings.png)
+![external-access-ddns-settings](./11/20/external-access-ddns-settings.png)
 
 ## Application Portal > Reverse Proxy
 
@@ -65,6 +65,6 @@ Setup a reverse proxy which listens for the specific 'domain' and maps those req
 
 The config of the SSL cert for each 'domain'.
 
-![security-certs-settings](./2022-11-20/security-certs-settings.png)
+![security-certs-settings](./11/20/security-certs-settings.png)
 
 The question is which part or parts of the config are incorrect?
