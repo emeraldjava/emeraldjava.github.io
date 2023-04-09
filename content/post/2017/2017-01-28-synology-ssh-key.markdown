@@ -1,14 +1,9 @@
 ---
 title: "Synology SSH Key"
 date: "2017-01-28 18:34:18 +0000"
-categories:
-  - dev
-tags:
-  - synology
-header:
-  overlay_image: https://unsplash.it/792/269/?random
-  ocerlay_filter: 0.75
-  teaser: https://unsplash.it/300/400/?image=5
+tags: ["synology"]
+draft: false
+published: true
 ---
 
 Setting up a SSH key for synology

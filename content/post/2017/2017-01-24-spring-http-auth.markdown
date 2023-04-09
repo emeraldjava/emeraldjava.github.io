@@ -1,14 +1,9 @@
 ---
 title: "Spring Boot -  Web Security"
 modified: 2017-01-25
-category:
-  - dev
-tags:
-  - java
-header:
-  overlay_image: https://unsplash.it/792/269/?random
-  ocerlay_filter: 0.75
-  teaser: https://unsplash.it/300/400/?image=2
+tags: ["spring","java"]
+draft: false
+published: true
 ---
 
 Spring Boot -  Web Security
