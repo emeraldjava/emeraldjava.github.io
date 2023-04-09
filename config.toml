@@ -25,5 +25,5 @@ enableGitalk = false
 # https://themes.gohugo.io/themes/github-style/
 
 # https://digitaldrummerj.me/hugo-post-series/
-[taxonomies]
-    series = "series"
+#[taxonomies]
+#series = "series"
