@@ -23,3 +23,7 @@ location = "Ireland"
 enableGitalk = false
 
 # https://themes.gohugo.io/themes/github-style/
+
+# https://digitaldrummerj.me/hugo-post-series/
+[taxonomies]
+    series = "series"
