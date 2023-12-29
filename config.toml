@@ -4,6 +4,9 @@ title = 'Posts from emeraldjava'
 theme = "github-style"
 googleAnalytics = "UA-156016480-1"
 
+# https://vninja.net/2020/02/12/my-hugo-workflow/
+newContentEditor = "code"
+
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
