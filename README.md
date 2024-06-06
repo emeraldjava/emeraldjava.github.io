@@ -4,7 +4,24 @@
 
 My site should be @ [https://emeraldjava.github.io/](http://emeraldjava.github.io/)
 
-## Local Dev
+# Astro
+
+## Migration
+
+- https://docs.astro.build/en/guides/migrate-to-astro/from-hugo/
+- https://mckerlie.com/posts/migrating-your-blog-from-hugo-to-astro/
+
+
+# Hugo
+
+## github-style
+
+- https://themes.gohugo.io/themes/github-style/
+- https://github.com/gitalk/gitalk
+
+  git submodule add https://github.com/MeiK2333/github-style.git themes/github-style
+
+# Gatsby
 
 Use the -H to set the hostname IP address for remote access
 
@@ -22,15 +39,3 @@ see
 
 - https://github.com/vchrombie/vchrombie.github.io
 - https://github.com/vchrombie/blog
-- 
-
-A new machine.gh
-
-# Hugo
-
-## github-style
-
-- https://themes.gohugo.io/themes/github-style/
-- https://github.com/gitalk/gitalk
-
-    git submodule add https://github.com/MeiK2333/github-style.git themes/github-style
