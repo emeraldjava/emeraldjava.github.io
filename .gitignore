@@ -202,7 +202,6 @@ typings/
 
 # Mac files
 .DS_Store
-/package-lock.json
 /hide/
 /.idea/
 gatsby-starter-blog/
