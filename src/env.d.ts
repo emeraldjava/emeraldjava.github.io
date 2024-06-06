@@ -10,9 +10,9 @@
 
 // https://docs.astro.build/en/guides/environment-variables/
 interface ImportMetaEnv {
-    readonly VITE_BASE: string;
+  readonly VITE_BASE: string;
 }
 
 interface ImportMeta {
-    readonly env: ImportMetaEnv;
+  readonly env: ImportMetaEnv;
 }

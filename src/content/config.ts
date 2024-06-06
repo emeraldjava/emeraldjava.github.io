@@ -1,6 +1,8 @@
 import { SITE } from "@config";
 import { defineCollection, z } from "astro:content";
 
+// see https://docs.astro.build/en/guides/content-collections/#defining-a-collection-schema
+
 const blog = defineCollection({
   type: "content",
   schema: ({ image }) =>
