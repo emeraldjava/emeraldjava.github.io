@@ -1,9 +1,9 @@
 services:
-  app:
-    image: node:21
+  astro:
+    build: .
     ports:
       - 4321:4321
-    working_dir: /dist
     command: npm run preview -- --host 0.0.0.0
     volumes:
-      - ./:/dist
+      - .:/usr/app/
+      - /usr/app/node_modules
