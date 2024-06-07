@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+import { defineConfig, passthroughImageService } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
 import remarkToc from "remark-toc";
@@ -24,6 +24,10 @@ export default defineConfig({
     react(),
     sitemap(),
   ],
+  image: {
+    // see https://docs.astro.build/en/reference/errors/missing-sharp/
+    service: passthroughImageService(),
+  },
   markdown: {
     remarkPlugins: [
       remarkToc,
