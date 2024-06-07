@@ -32,11 +32,11 @@ the frontend components should be available at
 
 - vote app: http://localhost:31000
 
-[//]: # (![]&#40;08/2023-04-08-vote-app-screenshot.png&#41;)
+![2023-04-08-vote-app-screenshot](@assets/images/2023/08/2023-04-08-vote-app-screenshot.png)
 
 - results app: http://localhost:31001
 
-[//]: # (![]&#40;08/1e22d8ff.png&#41;)
+![1e22d8ff](@assets/images/2023/08/1e22d8ff.png)
 
 ## Kubernetes Dashboard
 
