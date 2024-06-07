@@ -8,10 +8,11 @@ const blog = defineCollection({
   schema: ({ image }) =>
     z.object({
       author: z.string().default(SITE.author),
-      pubDate: z.coerce.date().optional(),
-      updatedDate: z.coerce.date().optional(),
-      pubDatetime: z.coerce.date(),
+      date: z.coerce.date(),
+      //pubDate: z.coerce.date().optional(),
       modDatetime: z.coerce.date().optional().nullable(),
+      //pubDatetime: z.coerce.date(),
+      //modDatetime: z.coerce.date().optional().nullable(),
       title: z.string(),
       featured: z.boolean().optional(),
       draft: z.boolean().optional(),
@@ -22,7 +23,7 @@ const blog = defineCollection({
         })
         .or(z.string())
         .optional(),
-      description: z.string(),
+      summary: z.string(),
       canonicalURL: z.string().optional(),
     }),
 });

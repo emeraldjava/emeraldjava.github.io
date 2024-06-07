@@ -1,11 +1,12 @@
-+++
-title = "Github Worth"
-date = 2023-07-22T20:03:04+01:00
-author = "emeraldjava"
-keywords = ["github"]
-cover = ""
-summary = "The percieved value of my github repo!"
-+++
+---
+title: "Github Worth"
+date: 2023-12-09T20:03:04Z
+author: "emeraldjava"
+keywords: ["github"]
+cover: ""
+summary: "The percieved value of my github repo!"
+slug: 2023-12-29-git-worth
+---
 
 Using https://github-worth.vercel.app/ to determine the value of the [emeraldjava](https://github.com/emeraldjava) github empire.
 

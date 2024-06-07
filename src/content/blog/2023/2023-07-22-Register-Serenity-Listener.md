@@ -1,11 +1,12 @@
-+++
-title = "Register Serenity Listener"
-date = 2023-07-22T20:03:04+01:00
-author = "emeraldjava"
-keywords = ["serenity", "java"]
-cover = ""
-summary = "Remember the META-INF config for Service Locators"
-+++
+---
+title: "Register Serenity Listener"
+date: 2023-07-22T20:03:04Z
+author: "emeraldjava"
+keywords: ["serenity", "java"]
+cover: ""
+summary: "Remember the META-INF config for Service Locators"
+slug: 2023-07-22-serenity
+---
 
 # Step 1 - Create the Listener
 

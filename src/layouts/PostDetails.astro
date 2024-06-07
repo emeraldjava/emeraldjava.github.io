@@ -18,10 +18,10 @@ const { post } = Astro.props;
 const {
   title,
   author,
-  description,
+  summary,
   ogImage,
   canonicalURL,
-  pubDatetime,
+  date,
   modDatetime,
   tags,
 } = post.data;
@@ -37,8 +37,8 @@ const ogUrl = new URL(
 const layoutProps = {
   title: `${title} | ${SITE.title}`,
   author,
-  description,
-  pubDatetime,
+  summary,
+  date,
   modDatetime,
   canonicalURL,
   ogImage: ogUrl,
@@ -68,7 +68,7 @@ const layoutProps = {
   <main id="main-content">
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
     <Datetime
-      pubDatetime={pubDatetime}
+      pubDatetime={date}
       modDatetime={modDatetime}
       size="lg"
       className="my-2"
