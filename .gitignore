@@ -209,4 +209,8 @@ gatsby-starter-blog/
 # hugo excludes
 .hugo_build.lock
 go.sum
-themes/*
+themes/*!/.vscode/
+
+# vscode
+/.vscode/
+#!/.vscode/settings.json
