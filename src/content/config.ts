@@ -1,16 +1,18 @@
 import { SITE } from "@config";
+import { glob } from "astro/loaders";
 import { defineCollection, z } from "astro:content";
 
 // see https://docs.astro.build/en/guides/content-collections/#defining-a-collection-schema
-
 const blog = defineCollection({
-  type: "content",
+  loader: glob({ pattern: "**/*.md", base: "./content/blog" }),
   schema: ({ image }) =>
     z.object({
       author: z.string().default(SITE.author),
-      date: z.coerce.date(),
+      pubDatetime: z.date(),
+      modDatetime: z.date().optional().nullable(),
+      //date: z.coerce.date(),
       //pubDate: z.coerce.date().optional(),
-      modDatetime: z.coerce.date().optional().nullable(),
+      //modDatetime: z.coerce.date().optional().nullable(),
       //pubDatetime: z.coerce.date(),
       //modDatetime: z.coerce.date().optional().nullable(),
       title: z.string(),
@@ -23,7 +25,7 @@ const blog = defineCollection({
         })
         .or(z.string())
         .optional(),
-      summary: z.string(),
+      description: z.string(),
       canonicalURL: z.string().optional(),
     }),
 });

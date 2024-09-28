@@ -1,13 +1,13 @@
 ---
 title: Adding new posts in AstroPaper theme
 author: me
-date: 2024-06-06T15:22:00Z
+pubDatetime: 2024-06-06T15:22:00Z
 slug: 2024-06-06-new-astro-post
 featured: true
 draft: false
 tags:
   - docs
-summary:
+description:
   Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
 ---

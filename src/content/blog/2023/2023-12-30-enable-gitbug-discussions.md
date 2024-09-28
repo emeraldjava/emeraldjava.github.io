@@ -1,10 +1,10 @@
 ---
 title: "Enable GitHUb Discussions"
-date: 2023-07-30T20:03:04Z
+pubDatetime: 2023-07-30T20:03:04Z
 author: "emeraldjava"
 keywords: ["github"]
 cover: ""
-summary: "The percieved value of my github repo!"
+description: "The percieved value of my github repo!"
 slug: 2023-07-30-github-discuss
 ---
 

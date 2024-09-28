@@ -1,10 +1,10 @@
 ---
 title: "Github Worth"
-date: 2023-12-09T20:03:04Z
+pubDatetime: 2023-12-09T20:03:04Z
 author: "emeraldjava"
 keywords: ["github"]
 cover: ""
-summary: "The percieved value of my github repo!"
+description: "The percieved value of my github repo!"
 slug: 2023-12-29-git-worth
 ---
 

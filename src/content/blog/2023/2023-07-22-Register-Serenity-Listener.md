@@ -1,10 +1,10 @@
 ---
 title: "Register Serenity Listener"
-date: 2023-07-22T20:03:04Z
+pubDatetime: 2023-07-22T20:03:04Z
 author: "emeraldjava"
 keywords: ["serenity", "java"]
 cover: ""
-summary: "Remember the META-INF config for Service Locators"
+description: "Remember the META-INF config for Service Locators"
 slug: 2023-07-22-serenity
 ---
 

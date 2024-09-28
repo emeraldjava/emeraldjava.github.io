@@ -7,7 +7,8 @@ export const SITE: Site = {
   title: "emeraldjava",
   ogImage: "emeraldjava-avatar.jpg",
   lightAndDarkMode: true,
-  postPerPage: 5,
+  postPerIndex: 4,
+  postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 

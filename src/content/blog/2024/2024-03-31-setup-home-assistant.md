@@ -1,13 +1,13 @@
 ---
 title: "Home Assistant Setup"
-date: 2024-03-31T20:03:04Z
+pubDatetime: 2024-03-31T20:03:04Z
 author: "emeraldjava"
 featured: true
 tags:
   - synology
   - homeassistant
 cover: ""
-summary: "The perceived value of my github repo!"
+description: "The perceived value of my github repo!"
 slug: 2024-03-31-home-assistant
 ---
 

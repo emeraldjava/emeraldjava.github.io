@@ -1,11 +1,11 @@
 ---
 title: Astro Guides
 author: emeraldjava
-date: 2024-06-07T12:11:00Z
+pubDatetime: 2024-06-07T12:11:00Z
 slug: 2024-06-07-astro-guides.md
 tags:
   - astro
-summary: 'Resources uses for the astro migration'
+description: 'Resources uses for the astro migration'
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.

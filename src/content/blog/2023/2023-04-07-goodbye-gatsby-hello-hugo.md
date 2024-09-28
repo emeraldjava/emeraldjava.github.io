@@ -1,10 +1,10 @@
 ---
 title: 'Moving to Hugo'
-date: 2023-04-07T10:51:26Z
+pubDatetime: 2023-04-07T10:51:26Z
 author: ""
 keywords: ["hugo"]
 cover: ""
-summary: 'Goodby Gatsby, Hello Hugo'
+description: 'Goodby Gatsby, Hello Hugo'
 slug: 2023-04-07-moving-to-hugo
 ---
 

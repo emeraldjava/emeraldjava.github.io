@@ -1,10 +1,10 @@
 ---
 title: 'Kubernetes on Docker Desktop starter'
-date: 2023-04-08T18:22:26Z
+pubDatetime: 2023-04-08T18:22:26Z
 author: ""
 keywords: ["kubernetes", "docker"]
 cover: ""
-summary: "Setting up a basic pod via Docker Desktop on Mac"
+description: "Setting up a basic pod via Docker Desktop on Mac"
 slug: 2023-04-08-kubernetes
 ---
 

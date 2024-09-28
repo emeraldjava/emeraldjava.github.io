@@ -1,11 +1,11 @@
 ---
 title: Maven Plugin Test Frameworks
 author: emeraldjava
-date: 2024-09-21T07:44:00Z
+pubDatetime: 2024-09-21T07:44:00Z
 slug: 2024-09-21-Maven-Plugin-Test-Frameworks.md
 tags:
   - astro
-summary: 'Maven Plugin Test Frameworks'
+description: 'Maven Plugin Test Frameworks'
 ---
 
 ## 2024-09-21

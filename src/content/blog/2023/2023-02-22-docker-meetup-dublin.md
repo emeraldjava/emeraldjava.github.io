@@ -1,8 +1,8 @@
 ---
 title: "Dublin Docker Meetup"
-date: 2023-02-23T00:00:00Z
+pubDatetime: 2023-02-23T00:00:00Z
 author: emeraldjava
-summary: 'Docker Meetup Feb 2023'
+description: 'Docker Meetup Feb 2023'
 tags: 
   - docker
 slug: 2023-02-23-docker-meetup
