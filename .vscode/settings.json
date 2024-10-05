@@ -1,5 +1,10 @@
 {
     "yaml.schemas": {
         "https://json.schemastore.org/github-workflow.json": "file:///home/dc-user/github/emeraldjava.github.io/.github/workflows/build.yml"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3B2739",
+        "titleBar.activeBackground": "#53364F",
+        "titleBar.activeForeground": "#FBFAFB"
     }
 }
