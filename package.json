@@ -35,7 +35,7 @@
     "@tailwindcss/typography": "^0.5.15",
     "@types/lodash.kebabcase": "^4.1.9",
     "@types/react": "^18.3.6",
-    "@typescript-eslint/parser": "^8.5.0",
+    "@typescript-eslint/parser": "^8.9.0",
     "astro-eslint-parser": "^1.0.3",
     "eslint": "^9.10.0",
     "eslint-plugin-astro": "^1.2.4",
