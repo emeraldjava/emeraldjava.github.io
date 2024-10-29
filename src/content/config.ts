@@ -2,10 +2,10 @@ import { SITE } from "@config";
 import { glob } from "astro/loaders";
 import { defineCollection, z } from "astro:content";
 
-// see https://docs.astro.build/en/guides/content-c
-// ollections/#defining-a-collection-schema
+// see https://docs.astro.build/en/guides/content-collections/#defining-a-collection-schema
 const blog = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./content/blog" }),
+  type: "content_layer",
+  loader: glob({ pattern: "**/*.md", base: "./src/content/blog" }),
   schema: ({ image }) =>
     z.object({
       author: z.string().default(SITE.author),
@@ -23,6 +23,14 @@ const blog = defineCollection({
         .optional(),
       description: z.string(),
       canonicalURL: z.string().optional(),
+      editPost: z
+        .object({
+          disabled: z.boolean().optional(),
+          url: z.string().optional(),
+          text: z.string().optional(),
+          appendFilePath: z.boolean().optional(),
+        })
+        .optional(),
     }),
 });
 
