@@ -1,5 +1,5 @@
 ---
-title: 'Kubernetes on Docker Desktop starter'
+title: "Kubernetes on Docker Desktop starter"
 pubDatetime: 2023-04-08T18:22:26Z
 author: ""
 keywords: ["kubernetes", "docker"]
@@ -53,6 +53,5 @@ add the UI
 ## vcluster
 
 https://www.docker.com/blog/creating-kubernetes-extensions-in-docker-desktop/
-
 
 kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.7.0/aio/deploy/recommended.yaml

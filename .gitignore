@@ -5,6 +5,8 @@ dist/
 .output/
 docs/
 new/
+src/content/astro
+src/content/original-posts
 
 # jetbrains
 .idea/*

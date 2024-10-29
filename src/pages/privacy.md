@@ -72,4 +72,4 @@ emeraldjava.github.io may periodically update this policy. We encourage you to p
 
 ## Questions
 
-Thank you for reading our Privacy Policy. If you have any questions about this Policy, please contact our Data Protection Officer by emailing privacy@emeraldjava.github.io 
+Thank you for reading our Privacy Policy. If you have any questions about this Policy, please contact our Data Protection Officer by emailing privacy@emeraldjava.github.io

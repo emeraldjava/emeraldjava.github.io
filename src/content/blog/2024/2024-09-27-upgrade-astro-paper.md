@@ -2,7 +2,7 @@
 title: Virtual Threads and Astro Paper
 author: emeraldjava
 pubDatetime: 2024-09-27T07:44:00Z
-slug: '2024-09-27'
+slug: "2024-09-27"
 featured: true
 draft: false
 tags:

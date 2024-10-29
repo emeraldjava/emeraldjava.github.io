@@ -2,8 +2,8 @@
 title: "Dublin Docker Meetup"
 pubDatetime: 2023-02-23T00:00:00Z
 author: emeraldjava
-description: 'Docker Meetup Feb 2023'
-tags: 
+description: "Docker Meetup Feb 2023"
+tags:
   - docker
 slug: 2023-02-23-docker-meetup
 ---
@@ -26,8 +26,7 @@ microservices vs container
 use nginx unit to run mutliple processes within a single docker container
 
 config
+
 - listeners
 - routes
 - applications
-
-

@@ -14,9 +14,7 @@ Create a new class which will be the custom listener, eg. MyCustomListener this 
 
 # Step 2 - Regster the Service Locator
 
-1 In the resources folder of the project you are using create a directory META-INF folder
-2. Add a file called 'net.thucydides.core.steps.StepListener'
-3. Add the Listener class name as the file content.
+1 In the resources folder of the project you are using create a directory META-INF folder 2. Add a file called 'net.thucydides.core.steps.StepListener' 3. Add the Listener class name as the file content.
 
     /META-INF/net.thucydides.core.steps.StepListener
         - a.b.c.MyCustomListener

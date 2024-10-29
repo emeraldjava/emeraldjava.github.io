@@ -2,7 +2,8 @@ import { SITE } from "@config";
 import { glob } from "astro/loaders";
 import { defineCollection, z } from "astro:content";
 
-// see https://docs.astro.build/en/guides/content-collections/#defining-a-collection-schema
+// see https://docs.astro.build/en/guides/content-c
+// ollections/#defining-a-collection-schema
 const blog = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./content/blog" }),
   schema: ({ image }) =>

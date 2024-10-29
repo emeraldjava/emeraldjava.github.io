@@ -5,7 +5,7 @@ pubDatetime: 2024-06-16T08:11:00Z
 slug: 2024-06-16-jsonresume-theme.md
 tags:
   - astro
-description: 'Resources uses for the astro migration'
+description: "Resources uses for the astro migration"
 ---
 
 Need a theme which meets these criteria

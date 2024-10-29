@@ -5,7 +5,7 @@ pubDatetime: 2024-09-21T07:44:00Z
 slug: 2024-09-21-Maven-Plugin-Test-Frameworks.md
 tags:
   - astro
-description: 'Maven Plugin Test Frameworks'
+description: "Maven Plugin Test Frameworks"
 ---
 
 ## 2024-09-21
@@ -19,9 +19,10 @@ import org.apache.maven.plugin.testing.AbstractMojoTestCase;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-/**
-* A base test class where we can add helper methods and whatnot
-  */
+/\*\*
+
+- A base test class where we can add helper methods and whatnot
+  \*/
   public abstract class BaseTestCase extends AbstractMojoTestCase {
   protected Path getUnitTestDir() {
   return Paths.get(getBasedir(), "src", "test", "resources", "unit");
@@ -29,7 +30,6 @@ import java.nio.file.Paths;
   }
 
 see https://github.com/OpenAPITools/openapi-generator/blob/ee1cbf6f4bacd28aa8c1615e16c25bf29ad6e4e8/modules/openapi-generator-maven-plugin/src/test/java/org/openapitools/codegen/plugin/BaseTestCase.java
-
 
 then
 
@@ -77,6 +77,7 @@ via https://github.com/OpenAPITools/openapi-generator/blob/ee1cbf6f4bacd28aa8c16
         </dependency>
 
 Reference
+
 - https://maven.apache.org/plugin-developers/plugin-testing.html
 
 ### takari-plugin-testing-project
@@ -89,4 +90,5 @@ https://github.com/khmarbaise/maven-it-extension
 https://khmarbaise.github.io/maven-it-extension/itf-documentation/usersguide/usersguide.html
 
 References
+
 - https://dzone.com/articles/maven-plugin-testing-in-a-modern-way-part-i
