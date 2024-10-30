@@ -57,6 +57,16 @@ const structuredData = {
   class={`${scrollSmooth && "scroll-smooth"}`}
 >
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V66JPM85FQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-V66JPM85FQ');
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -136,15 +146,6 @@ const structuredData = {
 
     <script is:inline src="/toggle-theme.js" async></script>
   </head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V66JPM85FQ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-V66JPM85FQ');
-  </script>
   <body>
     <slot />
   </body>
