@@ -1,5 +1,5 @@
 import Giscus, { type Theme } from "@giscus/react";
-import { GISCUS } from "@config";
+//import { GISCUS } from "@config";
 import { useEffect, useState } from "react";
 
 interface CommentsProps {
@@ -45,7 +45,6 @@ export default function Comments({
 
     return (
         <div className="mt-8">
-            <Giscus theme={theme === "light" ? lightTheme : darkTheme} {...GISCUS} />
         </div>
     );
 }
