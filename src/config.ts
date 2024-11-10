@@ -1,4 +1,5 @@
 import type { Site, SocialObjects } from "./types";
+import type { GiscusProps } from "@giscus/react";
 
 export const SITE: Site = {
   website: "https://emeraldjava.github.io/", // replace this with your deployed domain
@@ -45,3 +46,16 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
 ];
+
+export const GISCUS: GiscusProps = {
+  repo: "[ENTER REPO HERE]",
+  repoId: "[ENTER REPO ID HERE]",
+  category: "[ENTER CATEGORY NAME HERE]",
+  categoryId: "[ENTER CATEGORY ID HERE]",
+  mapping: "pathname",
+  reactionsEnabled: "0",
+  emitMetadata: "0",
+  inputPosition: "bottom",
+  lang: "en",
+  loading: "lazy",
+};
