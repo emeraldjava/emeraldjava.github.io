@@ -1,7 +1,7 @@
 ---
-title: "Dublin Docker Meetup"
-date: "2022-09-14T00:00:00Z"
-layout: post
+title: "Dublin Docker Meetup Sept 22"
+description: "Dublin Docker Meetup Sept 22"
+pubDatetime: 2022-09-14T00:00:00Z
 published: true
 tags: [docker]
 summary: "Docker Extensions"

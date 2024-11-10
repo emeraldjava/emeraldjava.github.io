@@ -1,7 +1,7 @@
 ---
 title: "emeraldjava@mastodon.ie"
-date: "2022-11-05T00:00:00Z"
-layout: post
+description: "emeraldjava@mastodon.ie"
+pubDatetime: 2022-11-05T00:00:00Z
 published: true
 tags: [social]
 ---

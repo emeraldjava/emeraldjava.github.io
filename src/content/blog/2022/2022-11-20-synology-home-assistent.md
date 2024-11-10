@@ -1,7 +1,7 @@
 ---
 title: "Synology and Remote Home Assistent"
-date: "2022-11-20T00:00:00Z"
-layout: post
+description: "Synology and Remote Home Assistent"
+pubDatetime: 2022-11-20T00:00:00Z
 published: true
 tags: [synology]
 ---
@@ -10,13 +10,13 @@ tags: [synology]
 
 <!-- code_chunk_output -->
 
-- [Overview](#overview)
-- [Test Urls](#test-urls)
-- [Router Config](#router-config)
-- [Synology Config](#synology-config)
-  - [External Access \> DDNS Settings](#external-access--ddns-settings)
-  - [Application Portal \> Reverse Proxy](#application-portal--reverse-proxy)
-  - [Security \> Certificates](#security--certificates)
+1. [Overview](#overview)
+2. [Test Urls](#test-urls)
+3. [Router Config](#router-config)
+4. [Synology Config](#synology-config)
+   1. [External Access \> DDNS Settings](#external-access--ddns-settings)
+   2. [Application Portal \> Reverse Proxy](#application-portal--reverse-proxy)
+   3. [Security \> Certificates](#security--certificates)
 
 <!-- /code_chunk_output -->
 
@@ -59,7 +59,7 @@ This maps the 'domain' to the dynamic IP of my local synology server.
 
 Setup a reverse proxy which listens for the specific 'domain' and maps those requests to the process on my synology box.
 
-![application-portal-reverse-proxy-settings](./2022-11-20/application-portal-reverse-proxy-settings.png)
+<!-- ![application-portal-reverse-proxy-settings](./../2022/11/20/application-portal-reverse-proxy-settings.png) -->
 
 ## Security > Certificates
 
