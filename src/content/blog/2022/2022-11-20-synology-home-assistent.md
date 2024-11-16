@@ -1,9 +1,12 @@
 ---
 title: "Synology and Remote Home Assistent"
 description: "Synology and Remote Home Assistent"
+slug: "2022-11-20"
 pubDatetime: 2022-11-20T00:00:00Z
 published: true
-tags: [synology]
+tags: 
+   - synology
+
 ---
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->

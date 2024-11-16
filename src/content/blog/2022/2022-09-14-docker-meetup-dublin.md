@@ -1,6 +1,7 @@
 ---
 title: "Dublin Docker Meetup Sept 22"
 description: "Dublin Docker Meetup Sept 22"
+slug: "2022-09-14"
 pubDatetime: 2022-09-14T00:00:00Z
 published: true
 tags: [docker]
