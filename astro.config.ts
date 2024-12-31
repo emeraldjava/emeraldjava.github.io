@@ -53,6 +53,7 @@ export default defineConfig({
     //     }
     //   }
     // },
+    plugins: [rawFonts(['.ttf'])],
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
@@ -66,3 +67,18 @@ export default defineConfig({
   // So we're instructing Astro to put the static build output in a folder of that name.
   outDir: "./dist",
 });
+
+function rawFonts(ext) {
+  return {
+    name: 'vite-plugin-raw-fonts',
+    transform(_, id) {
+      if (ext.some(e => id.endsWith(e))) {
+        const buffer = fs.readFileSync(id);
+        return {
+          code: `export default ${JSON.stringify(buffer)}`,
+          map: null
+        };
+      }
+    }
+  };
+}
