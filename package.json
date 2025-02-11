@@ -1,6 +1,6 @@
 {
   "name": "emeraldjava.github.io",
-  "version": "2024.11.16",
+  "version": "2024.02.10",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -19,6 +19,7 @@
     "@giscus/react": "^3.0.0",
     "@resvg/resvg-js": "^2.6.2",
     "astro": "^4.16.3",
+    "astro-expressive-code": "^0.40.1",
     "fuse.js": "^7.0.0",
     "lodash.kebabcase": "^4.1.1",
     "remark-collapse": "^0.1.2",

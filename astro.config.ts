@@ -4,7 +4,9 @@ import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
-import { SITE } from "./src/config";
+//import { SITE } from "./src/config";
+
+import expressiveCode from "astro-expressive-code";
 
 // https://astro.build/config
 export default defineConfig({
@@ -24,6 +26,7 @@ export default defineConfig({
     }),
     react(),
     sitemap(),
+    expressiveCode(),
   ],
   image: {
     // see https://docs.astro.build/en/reference/errors/missing-sharp/

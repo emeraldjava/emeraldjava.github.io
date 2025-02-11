@@ -7,7 +7,6 @@ import Datetime from "@components/Datetime";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
-import Comments from "@components/Comments";
 import { SITE } from "@config";
 
 export interface Props {
@@ -181,15 +180,17 @@ const nextPost =
 
     <!--
     https://github.com/giscus/giscus-component
-    https://github.com/satnaing/astro-paper/blob/main/src/content/blog/how-to-integrate-giscus-comments.md -->
+    https://github.com/satnaing/astro-paper/blob/main/src/content/blog/how-to-integrate-giscus-comments.md
+    -->
+    <!--
     <Comments client:only="react" />
+    -->
     <!--<script async src="https://giscus.app/client.js"-->
     <!--    data-repo="[ENTER REPO HERE]"-->
     <!--    data-repo-id="[ENTER REPO ID HERE]"-->
     <!--    data-category="[ENTER CATEGORY NAME HERE]"-->
     <!--    data-category-id="[ENTER CATEGORY ID HERE]">-->
     <!--</script>-->
-
   </main>
   <Footer />
 </Layout>
