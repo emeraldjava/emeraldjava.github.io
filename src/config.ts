@@ -38,22 +38,25 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/emeraldjava",
     linkTitle: "${SITE.title} on Github",
     active: true,
-  }, {
+  },
+  {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/paultoconnell/",
     linkTitle: "${SITE.title} on LinkedIn",
     active: true,
-  }, {
+  },
+  {
     name: "StackOverflow",
     href: "https://stackoverflow.com/users/55794/emeraldjava",
     linkTitle: "${SITE.title} on StackOverflow",
     active: true,
-  }, {
+  },
+  {
     name: "Bluesky",
     href: "https://bsky.app/profile/emeraldjava.bsky.social",
     linkTitle: "${SITE.title} on Bluesky",
     active: true,
-  }
+  },
 ];
 
 // export const GISCUS: GiscusProps = {

@@ -20,9 +20,14 @@ export default defineConfig({
   // https://vitejs.dev/guide/env-and-mode.html#env-files
   //base: import.meta.env.DEV ? "." : "/emeraldjava-astro",
   //base: import.meta.env.VITE_BASE,
-  integrations: [tailwind({
-    applyBaseStyles: false,
-  }), react(), sitemap(), expressiveCode()],
+  integrations: [
+    tailwind({
+      applyBaseStyles: false,
+    }),
+    react(),
+    sitemap(),
+    expressiveCode(),
+  ],
   image: {
     // see https://docs.astro.build/en/reference/errors/missing-sharp/
     service: passthroughImageService(),

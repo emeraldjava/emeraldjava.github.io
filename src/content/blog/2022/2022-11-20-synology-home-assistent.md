@@ -4,9 +4,8 @@ description: "Synology and Remote Home Assistent"
 slug: "2022-11-20"
 pubDatetime: 2022-11-20T00:00:00Z
 published: true
-tags: 
-   - synology
-
+tags:
+  - synology
 ---
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -30,6 +29,7 @@ The following outline the steps i've taken to try and configure remote access to
 <!--more-->
 
 Reference
+
 - https://www.protoncek.com/2021/04/17/synology-reverse-proxy/
 - https://community.home-assistant.io/t/setup-on-synology-nas-with-remote-access/430949/2
 
@@ -42,7 +42,7 @@ The hope is that these URL will return a valid response
 
 # Router Config
 
-My home router has the following Port Forwarding rules which send all requests to the Synology IP. Ports 443 and 80 should be open. 
+My home router has the following Port Forwarding rules which send all requests to the Synology IP. Ports 443 and 80 should be open.
 
 ![router-port-forwarding](./11/20/router-port-forwarding.png)
 

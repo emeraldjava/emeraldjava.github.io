@@ -15,5 +15,5 @@ https://expressive-code.com/installation/#astro
 ## Example
 
 ```js
-console.log('This code is syntax highlighted!')
+console.log("This code is syntax highlighted!");
 ```

@@ -9,7 +9,6 @@ tags: [social]
 
 Moving to mastodon.
 
-
 # Docker Extension
 
 - https://www.jerriepelser.com/blog/sorting-out-gatsby-folder-structure/
