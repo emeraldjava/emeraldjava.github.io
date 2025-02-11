@@ -1,25 +1,22 @@
-import Giscus, { type Theme } from "@giscus/react";
+//import Giscus, { type Theme } from "@giscus/react";
 //import { GISCUS } from "@config";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
-interface CommentsProps {
-    lightTheme?: Theme;
-    darkTheme?: Theme;
-}
+// interface CommentsProps {
+//     lightTheme?: Theme;
+//     darkTheme?: Theme;
+// }
 
-export default function Comments({
-                                     lightTheme = "light",
-                                     darkTheme = "dark",
-                                 }: CommentsProps) {
-    const [theme, setTheme] = useState(() => {
-        const currentTheme = localStorage.getItem("theme");
-        const browserTheme = window.matchMedia("(prefers-color-scheme: dark)")
-            .matches
-            ? "dark"
-            : "light";
+export default function Comments() {
+    // const [theme, setTheme] = useState(() => {
+    //     const currentTheme = localStorage.getItem("theme");
+    //     const browserTheme = window.matchMedia("(prefers-color-scheme: dark)")
+    //         .matches
+    //         ? "dark"
+    //         : "light";
 
-        return currentTheme || browserTheme;
-    });
+    //     return currentTheme || browserTheme;
+    // });
 
     useEffect(() => {
         const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");

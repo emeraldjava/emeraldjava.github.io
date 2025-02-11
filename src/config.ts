@@ -1,5 +1,5 @@
 import type { Site, SocialObjects } from "./types";
-import type { GiscusProps } from "@giscus/react";
+//import type { GiscusProps } from "@giscus/react";
 
 export const SITE: Site = {
   website: "https://emeraldjava.github.io/", // replace this with your deployed domain
